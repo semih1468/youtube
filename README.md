@@ -19,7 +19,7 @@ Keep in mind that these subtitles would make our channel accessible to people wi
  - [GitHub](srt/001-f_BAHdRyh2w) - [YouTube](http://www.youtube.com/timedtext_video?v=f_BAHdRyh2w&ref=share) ~~001 Doğukan Güven Nomak - Fragman (Artık İstanbul'dayım)~~
  - [GitHub](srt/002-Nj4TgqFHif4) - [YouTube](http://www.youtube.com/timedtext_video?v=Nj4TgqFHif4&ref=share) **002 Flexible Grid System'i Seviyorum**
  - [GitHub](srt/003-zD4IE4nX8Ts) - [YouTube](http://www.youtube.com/timedtext_video?v=zD4IE4nX8Ts&ref=share) **003 Open Source'u Seviyorum**
- - [GitHub](srt/004-kp5aAUiZevI) - [YouTube](http://www.youtube.com/timedtext_video?v=kp5aAUiZevI&ref=share) **004 Teşekkürler Atölye15**
+ - [GitHub](srt/004-kp5aAUiZevI) - [YouTube](http://www.youtube.com/timedtext_video?v=kp5aAUiZevI&ref=share) ~~004 Teşekkürler Atölye15~~
  - [GitHub](srt/005-Y5_aa3StBl0) - [YouTube](http://www.youtube.com/timedtext_video?v=Y5_aa3StBl0&ref=share) _005 Amerika'da Menemen 15 Dolar - (Burak Yiğit Kaya)_
  - [GitHub](srt/006-cJewUoTPx7c) - [YouTube](http://www.youtube.com/timedtext_video?v=cJewUoTPx7c&ref=share) _006 Revize'nin Evrensel Sembolü Bi Tık - (Ekrem Elmas)_
  - [GitHub](srt/007-BLxdKYvAa8Y) - [YouTube](http://www.youtube.com/timedtext_video?v=BLxdKYvAa8Y&ref=share) _007 Akşam 6'da Mecidiyeköy'den Metrobüse Binin Yönü Farketmez - (Zafer Çakmak)_
@@ -44,7 +44,7 @@ Keep in mind that these subtitles would make our channel accessible to people wi
  - [GitHub](srt/026-x-rRnyawMAg) - [YouTube](http://www.youtube.com/timedtext_video?v=x-rRnyawMAg&ref=share) _026 Ekmek Teknemiz Dediğin Şey Bir Macbook - Geliştirici Aileleri (Başak Nomak)_
  - [GitHub](srt/027-4oDfSFgOG8k) - [YouTube](http://www.youtube.com/timedtext_video?v=4oDfSFgOG8k&ref=share) _027 Şirketimi Hawaii'de Tatil Yaparken Sattım - (Berkan Kısaoğlu)_
  - [GitHub](srt/028-qjmBuDJ58fY) - [YouTube](http://www.youtube.com/timedtext_video?v=qjmBuDJ58fY&ref=share) _028 Bahattin'in Trolleri - Kamera Arkası_
- - [GitHub](srt/029-8IEqmTv9WW8) - [YouTube](http://www.youtube.com/timedtext_video?v=8IEqmTv9WW8&ref=share) _029 Bi Tık 1 Milyon Pixel - (Tunç Topçuoğlu)_
+ - [GitHub](srt/029-8IEqmTv9WW8) - [YouTube](http://www.youtube.com/timedtext_video?v=8IEqmTv9WW8&ref=share) **029 Bi Tık 1 Milyon Pixel - (Tunç Topçuoğlu)**
  - [GitHub](srt/030-hzxiWT210MU) - [YouTube](http://www.youtube.com/timedtext_video?v=hzxiWT210MU&ref=share) _030 Zek'in Trolleri - Kamera Arkası_
  - [GitHub](srt/031-RXNGnfCZY6o) - [YouTube](http://www.youtube.com/timedtext_video?v=RXNGnfCZY6o&ref=share) _031 Öğrenmeye Kod Okuyarak Başlamalıyız - (Bahattin Çiniç)_
  - [GitHub](srt/032-4306ejHx17Y) - [YouTube](http://www.youtube.com/timedtext_video?v=4306ejHx17Y&ref=share) _032 Flexible Grid System Sunumu_
