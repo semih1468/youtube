@@ -48,6 +48,10 @@ Keep in mind that these subtitles would make our channel accessible to people wi
  - [GitHub](srt/030-hzxiWT210MU) - [YouTube](http://www.youtube.com/timedtext_video?v=hzxiWT210MU&ref=share) _030 Zek'in Trolleri - Kamera Arkası_
  - [GitHub](srt/031-RXNGnfCZY6o) - [YouTube](http://www.youtube.com/timedtext_video?v=RXNGnfCZY6o&ref=share) _031 Öğrenmeye Kod Okuyarak Başlamalıyız - (Bahattin Çiniç)_
  - [GitHub](srt/032-4306ejHx17Y) - [YouTube](http://www.youtube.com/timedtext_video?v=4306ejHx17Y&ref=share) _032 Flexible Grid System Sunumu_
+ - [GitHub](srt/033-lFvxc-vL5Bc) - [YouTube](http://www.youtube.com/timedtext_video?v=lFvxc-vL5Bc&ref=share) _033 Python Hacısı Nasıl Olunur - (Emre Yılmaz)_
+ - [GitHub](srt/034-0ngnYxfzr08) - [YouTube](http://www.youtube.com/timedtext_video?v=0ngnYxfzr08&ref=share) _034 Ben Front End Developer'ım dedim de sen diyemedin Anne - (Nuray & Okan Nomak)_
+ - [GitHub](srt/035-_pMilA-D60Y) - [YouTube](http://www.youtube.com/timedtext_video?v=_pMilA-D60Y&ref=share) _035 Acun Siteye Girin Dediği Anda 200 Bin Kişi Girdi - (Mengu Kagan)_
+ - [GitHub](srt/036-6fXXMS0F5Os) - [YouTube](http://www.youtube.com/timedtext_video?v=6fXXMS0F5Os&ref=share) _036 Önceki Yazılımcı Bir Kara Deliktir - (Zekeriya Koç)_
 
 ## Katkıda bulunanlar (Contributors)
   - [Burak Yiğit Kaya](https://github.com/BYK)
