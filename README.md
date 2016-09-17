@@ -45,7 +45,7 @@ Keep in mind that these subtitles would make our channel accessible to people wi
  - [GitHub](srt/027-4oDfSFgOG8k) - [YouTube](http://www.youtube.com/timedtext_video?v=4oDfSFgOG8k&ref=share) _027 Şirketimi Hawaii'de Tatil Yaparken Sattım - (Berkan Kısaoğlu)_
  - [GitHub](srt/028-qjmBuDJ58fY) - [YouTube](http://www.youtube.com/timedtext_video?v=qjmBuDJ58fY&ref=share) **028 Bahattin'in Trolleri - Kamera Arkası**
  - [GitHub](srt/029-8IEqmTv9WW8) - [YouTube](http://www.youtube.com/timedtext_video?v=8IEqmTv9WW8&ref=share) **029 Bi Tık 1 Milyon Pixel - (Tunç Topçuoğlu)**
- - [GitHub](srt/030-hzxiWT210MU) - [YouTube](http://www.youtube.com/timedtext_video?v=hzxiWT210MU&ref=share) _030 Zek'in Trolleri - Kamera Arkası_
+ - [GitHub](srt/030-hzxiWT210MU) - [YouTube](http://www.youtube.com/timedtext_video?v=hzxiWT210MU&ref=share) **030 Zek'in Trolleri - Kamera Arkası**
  - [GitHub](srt/031-RXNGnfCZY6o) - [YouTube](http://www.youtube.com/timedtext_video?v=RXNGnfCZY6o&ref=share) _031 Öğrenmeye Kod Okuyarak Başlamalıyız - (Bahattin Çiniç)_
  - [GitHub](srt/032-4306ejHx17Y) - [YouTube](http://www.youtube.com/timedtext_video?v=4306ejHx17Y&ref=share) _032 Flexible Grid System Sunumu_
  - [GitHub](srt/033-lFvxc-vL5Bc) - [YouTube](http://www.youtube.com/timedtext_video?v=lFvxc-vL5Bc&ref=share) _033 Python Hacısı Nasıl Olunur - (Emre Yılmaz)_
