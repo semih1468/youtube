@@ -32,5 +32,5 @@ Tamam tekrar başlıyoruz hadi en baştan.
 
 9
 00:00:26,960 --> 00:00:29,700
-Bu kamera kaydını kullanmak lazım kamera arkasında.
+Oğlum bu kamera kaydını kullanmak lazım kamera arkasında.
 
