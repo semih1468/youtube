@@ -43,7 +43,7 @@ Keep in mind that these subtitles would make our channel accessible to people wi
  - [GitHub](srt/025-bc-yJjO4ro8) - [YouTube](http://www.youtube.com/timedtext_video?v=bc-yJjO4ro8&ref=share) _025 Çok Başarılı Bir Kötü Örneğim - (Alican Arıcan)_
  - [GitHub](srt/026-x-rRnyawMAg) - [YouTube](http://www.youtube.com/timedtext_video?v=x-rRnyawMAg&ref=share) _026 Ekmek Teknemiz Dediğin Şey Bir Macbook - Geliştirici Aileleri (Başak Nomak)_
  - [GitHub](srt/027-4oDfSFgOG8k) - [YouTube](http://www.youtube.com/timedtext_video?v=4oDfSFgOG8k&ref=share) _027 Şirketimi Hawaii'de Tatil Yaparken Sattım - (Berkan Kısaoğlu)_
- - [GitHub](srt/028-qjmBuDJ58fY) - [YouTube](http://www.youtube.com/timedtext_video?v=qjmBuDJ58fY&ref=share) _028 Bahattin'in Trolleri - Kamera Arkası_
+ - [GitHub](srt/028-qjmBuDJ58fY) - [YouTube](http://www.youtube.com/timedtext_video?v=qjmBuDJ58fY&ref=share) **028 Bahattin'in Trolleri - Kamera Arkası**
  - [GitHub](srt/029-8IEqmTv9WW8) - [YouTube](http://www.youtube.com/timedtext_video?v=8IEqmTv9WW8&ref=share) **029 Bi Tık 1 Milyon Pixel - (Tunç Topçuoğlu)**
  - [GitHub](srt/030-hzxiWT210MU) - [YouTube](http://www.youtube.com/timedtext_video?v=hzxiWT210MU&ref=share) _030 Zek'in Trolleri - Kamera Arkası_
  - [GitHub](srt/031-RXNGnfCZY6o) - [YouTube](http://www.youtube.com/timedtext_video?v=RXNGnfCZY6o&ref=share) _031 Öğrenmeye Kod Okuyarak Başlamalıyız - (Bahattin Çiniç)_
