@@ -1,0 +1,56 @@
+1
+00:00:00,100 --> 00:00:02,280
+Kadın Yazılımcı nedir peki tam olarak?
+
+2
+00:00:02,340 --> 00:00:07,020
+Biz aslında 2014'dü galba evet 2014'de bir email aldık Elif Kuş'dan.
+
+3
+00:00:07,980 --> 00:00:11,200
+Kendisini tanımıyordum o zamanlar aslında kimse birbirini tanımıyordu.
+
+4
+00:00:13,620 --> 00:00:17,560
+Senin emailini bilmem kimden aldım diye oda bir arkadaşım üstünden beni bulmuş zaten.
+
+5
+00:00:18,300 --> 00:00:25,100
+Hafta içi bir gün konuşalım mı toplanalım mı bir araya gelelim benim böyle kadınlar ve yazılım dünyasıyla ilgili bir takım fikirlerim var dedi.
+
+6
+00:00:25,340 --> 00:00:31,020
+Sonra biz bir 8-10 kişi bir masanın etrafına toplandık tanıştık herkes ne iş yaptığı anlattı.
+
+7
+00:00:31,940 --> 00:00:34,280
+İnanılmaz bir gündü benim için hala unutmuyorum.
+
+8
+00:00:34,280 --> 00:00:39,080
+İlk defa öyle bir ortamda hem cinslerimle oturup teknik bir sohbet yaptık.
+
+9
+00:00:39,780 --> 00:00:45,780
+Herkes yaptığı işlerden bahsetti çünkü o güne kadar çalışma ortamımda hep erkek ağırlıklıydı.
+
+10
+00:00:46,120 --> 00:00:48,920
+Çok fazla benim gibi insan bende görmemiştim.
+
+11
+00:00:49,560 --> 00:00:55,400
+Ondan sonra ordan başladı. Biz şöyle tarif ediyoruz kendimizi aslında.
+
+12
+00:00:55,800 --> 00:01:02,500
+Hem sektör içinde kadın yazılımcıların böyle dayanışması birbirinden haberdar olması için varız.
+
+13
+00:01:02,820 --> 00:01:10,700
+Hemde üniversitelerde henüz okuyan kadın yazılımcı adayları içinde rol model olmaya ve onları cesaretlendirmeye,
+
+14
+00:01:10,900 --> 00:01:19,380
+hakikaten eğitimini aldıkları işi yapma konusunda onlara destek olmaya çalışan, çalışmaya çalışan bir topluluğuz. Böyle tarif edebilirim sana.
+

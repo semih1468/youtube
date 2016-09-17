@@ -35,7 +35,7 @@ Keep in mind that these subtitles would make our channel accessible to people wi
  - [GitHub](srt/017-73hf5qthAw8) - [YouTube](http://www.youtube.com/timedtext_video?v=73hf5qthAw8&ref=share) _017 Domates Ekme Hayalimiz Var - (Cihan Okyay)_
  - [GitHub](srt/018-lIwexM0SFLI) - [YouTube](http://www.youtube.com/timedtext_video?v=lIwexM0SFLI&ref=share) _018 Bunun Hover'ında Ne Olacak - (Oktay Elipek)_
  - [GitHub](srt/019-KvGB2Owd_50) - [YouTube](http://www.youtube.com/timedtext_video?v=KvGB2Owd_50&ref=share) _019 Uyandım ve Ben New York'a Gitmek İstiyorum Dedim - (Yasir Buğra Eryılmaz)_
- - [GitHub](srt/020-D-7JPCAmE6U) - [YouTube](http://www.youtube.com/timedtext_video?v=D-7JPCAmE6U&ref=share) _020 Kadın Yazılımcı Nedir - Kader Sucuk_
+ - [GitHub](srt/020-D-7JPCAmE6U) - [YouTube](http://www.youtube.com/timedtext_video?v=D-7JPCAmE6U&ref=share) **020 Kadın Yazılımcı Nedir - Kader Sucuk**
  - [GitHub](srt/021-QgLnVuygNrY) - [YouTube](http://www.youtube.com/timedtext_video?v=QgLnVuygNrY&ref=share) _021 Open Source’u Seviyorum - (Kader Sucuk)_
  - [GitHub](srt/022-41G5s5ejRT0) - [YouTube](http://www.youtube.com/timedtext_video?v=41G5s5ejRT0&ref=share) _022 GitHub'da "f" Kullanıcı Adını Nasıl Aldım - Fatih Kadir Akın_
  - [GitHub](srt/023-zIoqSrZRBr0) - [YouTube](http://www.youtube.com/timedtext_video?v=zIoqSrZRBr0&ref=share) _023 Stickker.net Hakkında - Fatih Kadir Akın_
