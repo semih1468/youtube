@@ -25,7 +25,7 @@ Keep in mind that these subtitles would make our channel accessible to people wi
  - [GitHub](srt/007-BLxdKYvAa8Y) - [YouTube](http://www.youtube.com/timedtext_video?v=BLxdKYvAa8Y&ref=share) _007 Akşam 6'da Mecidiyeköy'den Metrobüse Binin Yönü Farketmez - (Zafer Çakmak)_
  - [GitHub](srt/008-tjUyejYF-98) - [YouTube](http://www.youtube.com/timedtext_video?v=tjUyejYF-98&ref=share) _008 Derdimi Anlatacak Kadar Vim Biliyorum - (Uğur Özyılmazel)_
  - [GitHub](srt/009-bs9eYjlP7pI) - [YouTube](http://www.youtube.com/timedtext_video?v=bs9eYjlP7pI&ref=share) _009 Alırlar mı Beni Buraya - (Burak Can)_
- - [GitHub](srt/010-eZm1k26kAGI) - [YouTube](http://www.youtube.com/timedtext_video?v=eZm1k26kAGI&ref=share) ~~010 Barış Özcan - Geliştirici ve Tasarımcı Sohbetleri Fragmanı~~
+ - [GitHub](srt/010-eZm1k26kAGI) - [YouTube](http://www.youtube.com/timedtext_video?v=eZm1k26kAGI&ref=share) **010 Barış Özcan - Geliştirici ve Tasarımcı Sohbetleri Fragmanı**
  - [GitHub](srt/011-kqv6Rea68uE) - [YouTube](http://www.youtube.com/timedtext_video?v=kqv6Rea68uE&ref=share) _011 İnsan Öğrendikçe Öğrenmeyi de Öğreniyor - (Barış Özcan)_
  - [GitHub](srt/012-LfgymU3yYGw) - [YouTube](http://www.youtube.com/timedtext_video?v=LfgymU3yYGw&ref=share) _012 Dribbble Davetiyesi Verelim - (Kemal Şanlı)_
  - [GitHub](srt/013-p0Hdr0GgcaM) - [YouTube](http://www.youtube.com/timedtext_video?v=p0Hdr0GgcaM&ref=share) _013 Neden Girls Ayrı - Nesrin Kalender_
