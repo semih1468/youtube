@@ -1,0 +1,80 @@
+1
+00:00:00,000 --> 00:00:01,340
+Stickker.net nasıl gidiyor?
+
+2
+00:00:01,740 --> 00:00:06,980
+Stickker.net'in de hikayesi aslında yine tamamen jstanbul ve şeydeki gibi
+
+3
+00:00:07,300 --> 00:00:12,340
+kafama esmesiyle başlayan bir olay aynı şekilde Packathon'uda öyle düzenlemiştim hatırlıyosundur.
+
+4
+00:00:12,560 --> 00:00:18,060
+Bir anda böyle akşam otururken bir tane işte Linode'taydı o zaman şuan Digital Ocean'da.
+
+5
+00:00:18,060 --> 00:00:25,920
+Linode'da bir tane sunucu açıp WordPress kurup bakayım ben sticker sitesi yapabiliyor muyum falan diye bir giriş.
+
+6
+00:00:26,280 --> 00:00:37,300
+Kendim tamamen böyle akşam otururken 10 dakikada falan uğraşıp yapmaya çalıştığım, sonra mantıklı gelmeye başlayan bir proje.
+
+7
+00:00:37,900 --> 00:00:44,560
+Şuan baya iyi gidiyor yani ben ilk açtığımda aylık yemek paramı çıkartsın yeterli falan diyordum.
+
+8
+00:00:45,240 --> 00:00:48,800
+Şuan baya beklediğimin üstünde gidiyor o açıdan baya mutluyum yani.
+
+9
+00:00:49,080 --> 00:00:53,480
+Tek sıkıntısı akşamları siparişleri hazırlamak gibi bir process'im oluyor estra.
+
+10
+00:00:53,580 --> 00:00:59,820
+Ama çok sıkıntı değil tabiki yapıyorum. Baya da mutluluk verici bir iş.
+
+11
+00:01:00,340 --> 00:01:06,460
+Yıllarca böyle benimde dışardan aldığım şeyleri kendim yapıyor olmam.
+
+12
+00:01:06,500 --> 00:01:08,200
+Eve makina falan aldın mı peki?
+
+13
+00:01:08,420 --> 00:01:17,760
+Tabi tabi yani şimdi kendim yapıyorum makinayla yapıyorum makina aldım yazıcılarım var makinalarım var ev ortamında yapıyorum aslında öyle söyleyeyim.
+
+14
+00:01:18,200 --> 00:01:24,940
+Tamamen çok amatör bir iş ama tabi dışarıya daha profesyonel bir, hatta bunu ilk defa söylüyorum böyle public bir ortamda.
+
+15
+00:01:25,680 --> 00:01:31,140
+Tabiki profesyonel takılıyoruz ama, profesyonelce yapıyoruz işi ama sanıldığı kadar da kurumsal değiliz yani.
+
+16
+00:01:31,300 --> 00:01:36,540
+Hatta bazen işte bazı mail, bir kaç mail gelmişti ofisinizi ziyarete gelebilirmiyiz falan.
+
+17
+00:01:37,100 --> 00:01:37,980
+Gülüşmeler :)
+
+18
+00:01:37,980 --> 00:01:38,860
+Ofis yok.
+
+19
+00:01:39,280 --> 00:01:47,320
+Çünkü onu karşılayabilmem için işimden ayrılmam lazım, onun için yatırım yapmam gerekekiyor ve onu yapacak şeyim yok şuanda.
+
+20
+00:01:47,360 --> 00:01:52,900
+Ama baya sipariş geliyor ve bunları yetiştiriyoruz yani biraz destekte alıyorum tabi bu şekilde gidiyor yani güzel memnunum.
+
