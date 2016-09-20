@@ -5,7 +5,7 @@
 [Doğukan] Let me ask it before the question would be raised again
 
 0:00:05.260,0:00:07.300
-[Doğukan] How did you manage to get "f" username from GitHub?
+[Doğukan] How did you manage to get the username "f" from GitHub?
 
 0:00:07.300,0:00:07.860
 Here's what happened..
