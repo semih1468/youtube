@@ -1,0 +1,116 @@
+0:00:00.180,0:00:02.180
+[Doğukan] Now everyone has been asking..
+
+0:00:02.320,0:00:05.140
+[Doğukan] Let me ask it before the question would be raised again
+
+0:00:05.260,0:00:07.300
+[Doğukan] How did you manage to get "f" username from GitHub?
+
+0:00:07.300,0:00:07.860
+Here's what happened..
+
+0:00:08.020,0:00:13.220
+So I had this username: "fkadeveloper", a GitHub username and it was too long.
+
+0:00:13.400,0:00:15.660
+I mean really long.. Then I shortened it by "fkadev".
+
+0:00:15.800,0:00:19.620
+And even my twitter (etc.) handles are "fkadev"
+
+0:00:19.620,0:00:25.820
+I'm not that happy with it though but people got used to call me "fkadev" and therefore I cannot change it. It really stuck with me.
+
+0:00:25.820,0:00:30.860
+That "dev" thing, by the way, comes from this.. It was "developer" at first. The reason I made it "dev" is because it's short
+
+0:00:30.860,0:00:37.160
+as well as I was using Linux back then and the packages' development names had "-dev" in them: apache, apache-dev.
+
+0:00:37.160,0:00:42.900
+So that's the reason.. totally.. And I though why not make it just "dev", afterall I'm a developer.
+
+0:00:42.900,0:00:44.900
+And I made it "dev" and that's the way it's.
+
+0:00:44.900,0:00:48.960
+Because "fka" is too short I'm not able to use it for some services.
+
+0:00:49.360,0:00:53.360
+And "fka" is actually my initials: Fatih Kadir Akın. Not really creative though.
+
+0:00:53.360,0:00:55.700
+But you know; I couldn't find something else and I decided to stick with it.
+
+0:00:55.700,0:01:00.400
+And then I emailed to... you name it.. Emailed to GitHub Support.
+
+0:01:00.400,0:01:06.320
+I told them: "I want the name fka". By the time there was already an inactive username as "fka".
+
+0:01:06.500,0:01:12.140
+And they gave it to me right away. 10 minutes later they deleted the user "fka" and got back to me saying: "There, now you can take it".
+
+0:01:12.140,0:01:15.960
+I said: "Aha, nice". But then a friend, can't remember who, sorry for that.
+
+0:01:15.960,0:01:19.840
+"This.." he said "..would go until you get the f". I checked and found out that "f" is inactive too.
+
+0:01:20.760,0:01:25.140
+This time I replied to my own email saying: "Thank you for allowing me to get fka but..."
+
+0:01:25.140,0:01:30.080
+"...f is inactive as well. Can I take it?". And 10 minutes later I got an email saying: "sure you can".
+
+0:01:30.680,0:01:32.680
+Then they gave me access to "f" and that's it.
+
+0:01:32.680,0:01:33.800
+I didn't even bother.
+
+0:01:34.580,0:01:37.560
+And it's great. It's a very prestigious name.
+
+0:01:37.560,0:01:41.020
+By prestigious I mean: Now I'm typing just "f" when I'm asked for my password during commiting new code.
+
+0:01:41.800,0:01:43.800
+You just request it. It's not the end of the world.
+
+0:01:44.920,0:01:48.520
+And the good part of it is that I now have the name "f". And of course, on other platforms
+
+0:01:48.520,0:01:53.720
+where GitHub login is being used I'm "f" again. CodePen for instance.
+
+0:01:54.420,0:01:56.760
+But, of course, "f" doesn't work for all services.
+
+0:01:56.760,0:01:58.760
+So I've my own fallbacks: "f", "fka", "fkadev".
+
+0:01:59.440,0:02:03.740
+[Doğukan] Just one thing.. You had a project with some shortname or a repo I guess..
+
+0:02:03.740,0:02:05.740
+[Doğukan] r... r3, was it?
+
+0:02:06.280,0:02:07.480
+Yes yes.. I mean...
+
+0:02:07.860,0:02:10.200
+[Doğukan] I'm just having this trouble. I can't click on it.
+
+0:02:10.360,0:02:13.840
+[Doğukan] Can't decide where to click.. The profile or the repo. That's the only problem.
+
+0:02:13.840,0:02:17.520
+Because they're short, yes. I even now this another project...
+
+0:02:17.520,0:02:19.940
+...called "pq" which makes "f/pq". Just 3 characters.
+
+0:02:20.640,0:02:25.480
+Yeah, it's good. Many advantages. Although looks like there are disadvantages as well like you said.. Cannot click etc..
