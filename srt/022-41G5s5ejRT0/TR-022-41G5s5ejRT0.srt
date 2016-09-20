@@ -1,0 +1,116 @@
+0:00:00.180,0:00:02.180
+[Doğukan] Şimdi herkes tarafından çok soruluyordur
+
+0:00:02.320,0:00:05.140
+[Doğukan] Yine sorunun gelebileceğini düşünerek ben sorayım
+
+0:00:05.260,0:00:07.300
+[Doğukan] "f" harfini nasıl aldın Github'da?
+
+0:00:07.300,0:00:07.860
+Şöyle oldu
+
+0:00:08.020,0:00:13.220
+İşte benim fkadeveloper diye bir  şeyim vardı, GitHub username'im vardı. Çok uzundu.
+
+0:00:13.400,0:00:15.660
+Gerçekten çok uzun yani.. Daha sonra ben bunu fkadev olarak kısalttım
+
+0:00:15.800,0:00:19.620
+Hatta twitter falan username'lerim o şekilde: fkadev
+
+0:00:19.620,0:00:25.820
+Çok memnun değilim aslında nickname'den ama insanlar bana fkadev diye seslendikleri için artık değiştiremiyorum da; üzerime yapıştı.
+
+0:00:25.820,0:00:30.860
+O dev olayı da şeyden geliyor bu arada.. Developer'dı ilk başta. Sonradan dev yapmamın sebebi hem kısa olması
+
+0:00:30.860,0:00:37.160
+o zaman Linux kullanıyordum, paketlerin development isimlerinin sonunda hep dev vardı mesela işte: apache, apache-dev.
+
+0:00:37.160,0:00:42.900
+Ordan.. Tamamen ordan işte.. Ben de dev yapayım işte; hani yazılımcıyım falan gibisinden.
+
+0:00:42.900,0:00:44.900
+dev yaptım ve öyle kaldı.
+
+0:00:44.900,0:00:48.960
+fka çünkü çok kısa. Çoğu yerde fka ismini kullanamıyorum.
+
+0:00:49.360,0:00:53.360
+fka da ismimin baş harfleri zaten; hani Fatih Kadir Akın. Çok yaratıcı bir isim değil.
+
+0:00:53.360,0:00:55.700
+Hani şey olur; başka bir şey bulamadığım için ismimin baş harflerini koydum.
+
+0:00:55.700,0:01:00.400
+Sonra mail attım şeye.. Sen söyle.. GitHub Support'a mail attım.
+
+0:01:00.400,0:01:06.320
+Dedim ki; "ben fka ismini istiyorum". fka diye bir username vardı ve kullanmıyordu account.
+
+0:01:06.500,0:01:12.140
+Ve direk verdiler bana. 10 dk sonra fka user'ını sildiler. "Alabilirsin artık, şu anda o username yok" dediler.
+
+0:01:12.140,0:01:15.960
+"Aha çok iyi" falan dedim. Sonra bir arkadaş; kim hatırlayamıyorum şu anda, kusura bakmasın.
+
+0:01:15.960,0:01:19.840
+"Bu.." dedi, "f'e kadar gider" falan dedi. Sonra baktım f de aynı şekilde inaktif duruyor.
+
+0:01:20.760,0:01:25.140
+Bu sefer mail'ime reply ettim. Dedim ki; "çok teşekkürler fka'yı verdiniz için ama ben..." dedim,
+
+0:01:25.140,0:01:30.080
+"...baktım f de boşmuş. Onu alabilir miyim?" Onlar da 10 dk sonra "tabii ki alabilirsin" diye cevap döndüler.
+
+0:01:30.680,0:01:32.680
+Sonra f'i verdiler yani direk böyle.
+
+0:01:32.680,0:01:33.800
+Hiç uğraşmadım.
+
+0:01:34.580,0:01:37.560
+Baya da güzel oldu yani. Şu an çok avantajlı bir isim şey olarak.
+
+0:01:37.560,0:01:41.020
+Şey olarak avantajlı işte: commit yaparken şifre falan sorunca "f" yazıyorsunuz direk.
+
+0:01:41.800,0:01:43.800
+Direk gönderiyorsunuz. Hiç şey olmuyor.
+
+0:01:44.920,0:01:48.520
+Bir de güzel tabii yani "f". Ama tabii hiç başka platformlarda; yani GitHub login'i olmayan
+
+0:01:48.520,0:01:53.720
+GitHub login'iyle çalışan platformlarda da "f"... Mesela CodePen'de de "f" username'im.
+
+0:01:54.420,0:01:56.760
+Ama işte çoğu yerde "f" olmuyor.
+
+0:01:56.760,0:01:58.760
+Fallback'leri var: "f", "fka", "fkadev".
+
+0:01:59.440,0:02:03.740
+[Doğukan] Sadece.. Bir de aynı şekilde bir kısaltma yaptığın projen vardı, repo sanırım..
+
+0:02:03.740,0:02:05.740
+[Doğukan] r... r3'tü müydü?
+
+0:02:06.280,0:02:07.480
+Evet evet.. Yani hep...
+
+0:02:07.860,0:02:10.200
+[Doğukan] Sadece şey problemini yaşıyorum. Tıklayamıyorum yani.
+
+0:02:10.360,0:02:13.840
+[Doğukan] Profile mi gideyim, repo'ya mı gideyim... O sıkıntısı oluyor sadece.
+
+0:02:13.840,0:02:17.520
+Küçük oldukları için evet. Hatta şu anda bir tane daha mesela proje geliştirdim.
+
+0:02:17.520,0:02:19.940
+"pq" diye. f/pq mesela. 3 harfli.
+
+0:02:20.640,0:02:25.480
+Tabii güzel. Avantajları var. Ama dezavantajları da varmış dediğin gibi. Tıklanamıyor falan..

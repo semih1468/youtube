@@ -37,7 +37,7 @@ Keep in mind that these subtitles would make our channel accessible to people wi
  - [GitHub](srt/019-KvGB2Owd_50) - [YouTube](http://www.youtube.com/timedtext_video?v=KvGB2Owd_50&ref=share) _019 Uyandım ve Ben New York'a Gitmek İstiyorum Dedim - (Yasir Buğra Eryılmaz)_
  - [GitHub](srt/020-D-7JPCAmE6U) - [YouTube](http://www.youtube.com/timedtext_video?v=D-7JPCAmE6U&ref=share) **020 Kadın Yazılımcı Nedir - Kader Sucuk**
  - [GitHub](srt/021-QgLnVuygNrY) - [YouTube](http://www.youtube.com/timedtext_video?v=QgLnVuygNrY&ref=share) _021 Open Source’u Seviyorum - (Kader Sucuk)_
- - [GitHub](srt/022-41G5s5ejRT0) - [YouTube](http://www.youtube.com/timedtext_video?v=41G5s5ejRT0&ref=share) _022 GitHub'da "f" Kullanıcı Adını Nasıl Aldım - Fatih Kadir Akın_
+ - [GitHub](srt/022-41G5s5ejRT0) - [YouTube](http://www.youtube.com/timedtext_video?v=41G5s5ejRT0&ref=share) ~~022 GitHub'da "f" Kullanıcı Adını Nasıl Aldım - Fatih Kadir Akın~~
  - [GitHub](srt/023-zIoqSrZRBr0) - [YouTube](http://www.youtube.com/timedtext_video?v=zIoqSrZRBr0&ref=share) **023 Stickker.net Hakkında - Fatih Kadir Akın**
  - [GitHub](srt/024-aT6otd47OpI) - [YouTube](http://www.youtube.com/timedtext_video?v=aT6otd47OpI&ref=share) _024 Bilgisayarımın Sürekli Yanımda Olması Eşimin Hoşuna Gitmiyor - Fatih Kadir Akın_
  - [GitHub](srt/025-bc-yJjO4ro8) - [YouTube](http://www.youtube.com/timedtext_video?v=bc-yJjO4ro8&ref=share) _025 Çok Başarılı Bir Kötü Örneğim - (Alican Arıcan)_
@@ -58,3 +58,4 @@ Keep in mind that these subtitles would make our channel accessible to people wi
   - [Bulut Yasin Özyurt](https://github.com/bulutyasin)
   - [Hakan Aktaş](https://github.com/hkan)
   - [Çağdaş Dağ](https://github.com/cagdasdag)
+  - [Alper Kanat](https://github.com/tunix)
