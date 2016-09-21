@@ -1,0 +1,854 @@
+0:00:00.000,0:00:03.120
+[Doğukan] Seni tanımayan birine Burak Yiğit Kaya'yı nasıl anlatırsın?
+
+0:00:03.640,0:00:05.320
+Bilgisayar delisi. Bu kadar.
+
+0:00:05.820,0:00:11.900
+Küçüklüğümden beri bilgisayar delisi, insanlara yardım etmeyi seven.. Öyle bir adam derim kendi kendime.
+
+0:00:11.900,0:00:13.340
+[Doğukan] Geliştirmeye nasıl başladın?
+
+0:00:13.920,0:00:18.600
+9-10 yaşlarında, yalan olmasın, babam sonunda eve bir tane Commodor 64 aldı.
+
+0:00:19.020,0:00:24.460
+Yani geliştirme kısmını diyorum. Bilgisayarlara yapışmaya 3-4 yaşında falan herhalde işte. Kuzenim o ara maddi durumları iyiydi
+
+0:00:24.460,0:00:26.740
+Böyle 386-486 bir şey vardı onlarda.
+
+0:00:27.260,0:00:30.900
+DOS komutları falan yazıyordum. Ondan sonra işte yapıştım babamın yakasına "bilgisayar, bilgisayar" diye.
+
+0:00:30.900,0:00:32.200
+Sonunda bir tane Commodor 64 aldılar.
+
+0:00:32.200,0:00:37.480
+Orda dedi ki; "Bak, bunda zaten açılan şey BASIC'in derleyicisi, interpreter'ı".
+
+0:00:37.840,0:00:40.560
+"Hazırım.." diyor, "ready" diyor, soruyor sana komutları..
+
+0:00:41.360,0:00:46.080
+İşte babam ordan bana anlattı: "Bak.." dedi, "..işte input, n, $ bilmem ne falan diye girdi alabiliyorsun işte" falan
+
+0:00:46.080,0:00:48.340
+diye saçma sapan hesap makinesi programları falan yapıyordum.
+
+0:00:48.340,0:00:52.560
+Zaten 3+5 yazsan topluyor halbuki alet ama işte biz böyle "işleminizi girin" bilmem ne falan diye...
+
+0:00:53.140,0:00:56.900
+Orda başladım. Sonra burslu olarak bir koleje girmiştim.
+
+0:00:57.140,0:01:04.240
+Orda Windows 95'le falan tanışınca böyle web, JavaScript, HTML falan... Adamın birisi bana "sen bence buralara yönel" falan demişti.
+
+0:01:04.240,0:01:08.140
+O ara işte ortaokul 2-3 gibi JavaScript'le baya uğraşmaya başladım. 
+
+0:01:08.220,0:01:09.400
+[Doğukan] Kaç doğumlusun peki?
+
+0:01:09.400,0:01:15.940
+88 doğumluyum. Yani 2001 falandır herhalde ilk JavaScript kodlarım ama tabii internette bir yerde yok onlar.
+
+0:01:16.360,0:01:19.540
+Saçma sapan çok kötü kodlar yazıyordum. O zaman zaten internet çok kısıtlı
+
+0:01:19.540,0:01:24.020
+böyle arama motorları falan yok, Google doğru düzgün çalışmıyor ya da yok zaten hatta o zaman falan. Öyle bir yerdi.
+
+0:01:24.200,0:01:27.580
+Tabii JavaScript'i de derme çatma, saçma sapan örnek kitaplarından falan öğreniyordum.
+
+0:01:27.960,0:01:32.060
+Lise 1. sınıfta bir arkadaşımla tanıştım. O da tam bilgisayar manyağıymış gene. Kitaplarla falan...
+
+0:01:32.300,0:01:33.040
+[Doğukan] İzmir'de miydi o peki?
+
+0:01:33.460,0:01:35.140
+Yok. Ben İzmir'e çok sonradan geldim. Millet beni...
+
+0:01:35.280,0:01:36.380
+[Doğukan] Memleket neresi?
+
+0:01:36.380,0:01:38.780
+Memleket aslında; doğup büyüdüğüm yer Kocaeli, Yalova.
+
+0:01:40.140,0:01:43.560
+Bu arkadaşım da Yalova'daydı. Hatta Tuna Akın; selam çakayım burdan ona.
+
+0:01:44.820,0:01:46.100
+Hala görüşüyoruz.
+
+0:01:46.580,0:01:50.560
+O böyle.. Delphi'yi öğretti. Elinde kocaman bir kitap vardı. Böyle "Delphi diye bir şey var" falan..
+
+0:01:50.560,0:01:52.940
+Ben bir baktım; web'de o zaman daha CSS falan yeni.
+
+0:01:53.380,0:01:56.400
+Bir şeyin yerini falan yerleştirmek korkunç.  Delphi'de görsel form editörü var. Ordan çekiyorsun...
+
+0:01:56.400,0:01:57.040
+[Doğukan] Sürükle bırak..
+
+0:01:57.040,0:01:59.640
+Sürükle bırak.. Dedim "Allah'ım yarabbim ne kadar güzel bir şeymiş bu"
+
+0:01:59.960,0:02:02.040
+Sonra o çocuk da o ara Assembly öğreniyordu.
+
+0:02:02.860,0:02:07.600
+Assembly kodlarını gösteriyor bana işte mod ax bx falan dedim "bu ne oğlum? bu bilgisayar kodu değil, saçma sapan bir şey" falan..
+
+0:02:07.900,0:02:10.320
+Neyse ordan baya girdik derinliklerine.
+
+0:02:10.680,0:02:12.500
+Sonra üniversite 1. sınıfta da işe başladım zaten.
+
+0:02:13.920,0:02:15.580
+[Doğukan] Üniversitede hangi bölümü okudun?
+
+0:02:15.580,0:02:17.060
+Makine Mühendisliği mezunuyum.
+
+0:02:17.440,0:02:18.100
+[Doğukan] Makine Mühendisliği...
+
+0:02:18.100,0:02:18.800
+Evet..
+
+0:02:19.200,0:02:21.060
+[Doğukan] Amerika ve Disqus'tan bahsedebilir misin?
+
+0:02:21.340,0:02:24.480
+Asker yeni bitmiş daha. Eşimle evlenmek istiyorduk, nişanlıyım zaten.
+
+0:02:24.480,0:02:27.620
+Hatta 2. seneyi dolduruyoruz askerliğin bitiminde nişanlılıkta nerdeyse.
+
+0:02:27.620,0:02:29.700
+1.5... 1-1.5 sene oluyor nerdeyse.
+
+0:02:29.940,0:02:36.080
+E iş arıyorum. Ben zaten üniversitedeyken ha bire Google'a, ne bileyim Twitter'a bilmem neye falan böyle iş başvurusu atıyordum.
+
+0:02:36.080,0:02:37.420
+Hiç geri dönüş olmuyordu tabii.
+
+0:02:37.880,0:02:43.540
+Neyse.. Sonra ne olduysa kısmetim açıldı. Askerlik bittiği sıralarda... Hani onlar da acaba askerliği bitmeyeni almıyorlardı bilmiyorum.
+
+0:02:43.540,0:02:48.380
+Geri dönüşler olmaya başladı. O arada Disqus da 2. geri dönen firmaydı bana. İşte görüşmeye gittik bilmem ne..
+
+0:02:48.380,0:02:52.440
+Ondan sonra Aralık ayında böyle hızlı hızlı ilk 2 aşamayı geçtik falan. Sonra araya Christmas tatili girdi.
+
+0:02:52.440,0:02:58.680
+Onlar dediler ki; o bittikten sonra biz seni yani burda ofiste ağırlayıp tekrar mülakata almak istiyoruz.
+
+0:02:58.680,0:03:04.040
+Tamam dedim, süper! Ondan sonra aldılar mülakata.. İşte 6-7 saat süren böyle baya ağır bir mülakat geçti.
+
+0:03:04.040,0:03:08.020
+Zaten jetlag'den böyle "ha kim, ne?" falan.. Zaten bambaşka bir yer. Amerika'ya ilk defa gitmişsin falan.
+
+0:03:08.660,0:03:14.300
+Sonra işte tamam dediler. Vize için tabii baya beklememiz gerekiyordu. O yüzden Nisan ayında erken başlattılar; hani uzaktan
+
+0:03:14.300,0:03:15.900
+kontratlı olarak olarak başladım.
+
+0:03:16.420,0:03:22.560
+Şimdi Nisan da gelince ordaki işte benim iş durumum, maaşım vs. hepsi belli olunca eşime dedim ki: "tamam, artık evlenebiliriz."
+
+0:03:22.560,0:03:24.000
+Hani önümüzü görüyoruz en azından.
+
+0:03:24.000,0:03:24.500
+[Doğukan] Hmm.. Anladım.
+
+0:03:24.500,0:03:28.280
+Apar topar Nisan ayında.. Nisan'ın, hatta, sonuna doğru bu kararı aldık. 
+
+0:03:28.280,0:03:29.880
+Temmuz'un ortasında evlendik.
+
+0:03:30.180,0:03:34.880
+Evlendirme yerini bile bulamayabilirdik aslında. Şans eseri.. Pazartesi evlendik mesela o yüzden falan.
+
+0:03:34.880,0:03:37.180
+Böyle millet "N'apıyorsunuz? Pazartesi evlenir mi insanlar?" falan diyordu.
+
+0:03:37.180,0:03:41.580
+Sonra gideceğiz ama evimiz yok. Burda da ev kurmak istemiyoruz çünkü nasılsa gideceğiz falan.
+
+0:03:41.580,0:03:45.500
+İşte tek odalı bir tane eşyalı ev bulduk. Oraya geçtik.
+
+0:03:46.000,0:03:48.080
+Ondan sonra ben Amerika'ya gittim. Önden gittim. 
+
+0:03:48.900,0:03:53.580
+Orda eşim sene sonuna kadar kaldı. Ben Ekim ayında gittim. İlk 1-2 ay böyle izbe, korkunç..
+
+0:03:53.580,0:03:56.080
+Orda Mission District diye bir yer var. Hatta Mission ve 16. cadde.
+
+0:03:56.080,0:03:58.920
+Yani San Francisco'ya gidenler, bilenler biliyordur. Korkunç bir yer orası.
+
+0:03:59.720,0:04:00.840
+Orda 2 ay yaşadım. 
+
+0:04:01.640,0:04:04.080
+Aslında normalde 1 ay yaşayacaktım. 2. ayın olmasının sebebi: ev bulamadım.
+
+0:04:04.220,0:04:06.280
+O kadar zor ki ev bulmak. Hele ki mantıklı fiyatlara.
+
+0:04:06.280,0:04:11.520
+Ama ev buldum. Marina District diye düzgün bir yer. Böyle evsizlerin falan olmadığı pek.. falan bir yerde buldum. Orası da bir odalı.
+
+0:04:12.100,0:04:13.980
+Mis gibi güzel. Hayvan gibi kirası var.
+
+0:04:14.520,0:04:18.480
+Ondan sonra.. Neyse.. Bir akşam artık böyle o lanet yerden, her şeyimi IKEA poşetlerine doldurdum.
+
+0:04:19.020,0:04:20.740
+O böyle mavi.. kalın poşetlere..
+
+0:04:21.260,0:04:23.920
+Ondan sonra bir tane taksi çağırdım. Taksinin bagajına yükleyip gittik.
+
+0:04:23.920,0:04:25.920
+Ondan sonra dedim "Allah belasını versin buranın". 
+
+0:04:26.620,0:04:28.180
+Ondan sonra ordan geri döndüm.
+
+0:04:28.920,0:04:29.600
+Eşimi aldım.
+
+0:04:29.860,0:04:31.580
+O zaman.. Ondan sonra ordaki evi kapattık.
+
+0:04:32.460,0:04:33.020
+Böyle bir...
+
+0:04:33.460,0:04:36.380
+3-4 bavul, belki bir 5 bavul falan.. 5 değil de 4 bavul olması lazım.
+
+0:04:36.380,0:04:39.840
+Yoo.. 5 tabii tabii. Yani 5 bavul falan full eşimin eşyası nerdeyse.
+
+0:04:40.780,0:04:44.900
+Kapattık böyle. Hatta Türk Hava Yolları görevlisi de şey dedi böyle: "Hangisi sizinki?" dedi.
+
+0:04:44.900,0:04:47.560
+Sonra "Haha! Tabii ki büyük olan hanımlarındır, değil mi?" falan filan dedi.
+
+0:04:47.560,0:04:50.740
+Ben de böyle "hepsi hanımın" falan yapacaktım ama şimdi dedim artık...
+
+0:04:51.340,0:04:53.120
+Eee neyse.. Ondan sonra gittik.
+
+0:04:55.120,0:04:57.940
+O şekilde başladık. Yani yerleşme kısmı bile sancılıydı.
+
+0:04:57.940,0:05:01.380
+Sonra gittik, evde hiç bir şey yok tabii. "Ben.." dedim eşime "..birlikte seçeriz." falan dedim.
+
+0:05:02.080,0:05:04.280
+E IKEA'ya gittik, arabamız yok. Araba kiralayalım dedik.
+
+0:05:04.280,0:05:08.860
+Sonra bir şeyden dolayı yapmadık. Ya da korktuk mu artık trafik kurallarına adapte olamayız falan diye bilmiyorum.
+
+0:05:08.860,0:05:11.540
+Otobüsle IKEA'ya gittik. Yine poşet poşet şey alıyoruz.
+
+0:05:11.840,0:05:14.400
+İşte çatal bıçak, tencere, bilmem ne falan alıyoruz böyle.
+
+0:05:14.860,0:05:16.140
+Böyle ilginç bir maceraydı yani.
+
+0:05:16.460,0:05:21.620
+[Doğukan] Herkesin hayali yani mutlaka.. Hani Amerika'ya gideyim işte, orda bir firmada çalışayım falan süper.
+
+0:05:22.000,0:05:27.160
+[Doğukan] Neden bu, herkesin, bu süper isteğinden vazgeçip de dönme kararı aldın?
+
+0:05:27.400,0:05:31.480
+Şimdi gittik oraya. Eşim benim için tabii buradaki işinden istifa etmek zorunda kaldı.
+
+0:05:32.020,0:05:36.400
+Ben giderken tam net maaşımı da bilmiyordum. Onlar onu, işte, brüt söylüyorlar. Vergiler düşüyor bilmem ne falan.
+
+0:05:36.900,0:05:40.560
+E geldik. Ev kiraları bize söylediklerinden çok çıktı. Maaşları bana söylediklerinden az çıktı.
+
+0:05:40.960,0:05:43.120
+Yani tahminlerimizden kötü yönlerde ilerledim.
+
+0:05:43.800,0:05:46.920
+E eşime iş bulacağız. Şimdi eşimin oraya geliş tarihi Ocak'ın sonlarına doğru.
+
+0:05:47.760,0:05:53.800
+Sizin Nisan'a kadar iş bulup H1B başvurusunu başlatmanız lazım ki o senenin Ekim'inde tekrar çalışmaya başlayabilsin eşim.
+
+0:05:54.400,0:05:58.460
+E İngilizce'si kötü değil ama hani orda çalışabilecek seviyede mi? Emin değiliz.
+
+0:05:59.580,0:06:03.380
+Ordaki çevremiz de benim geliştirici çevresi çok yakın. O daha Elektrik Mühendisi ağırlıklı.
+
+0:06:03.380,0:06:06.520
+Test Mühendisliği falan yapıyor. Hani tam şeyi pozisyonlandıramadık.
+
+0:06:07.080,0:06:10.780
+E sonra biz yani 2. ayın sonuna doğru falan.. Yani Mart ayına doğru şeyi gördük yani.
+
+0:06:11.660,0:06:13.540
+Bu sene bu iş olmayacak gibi.
+
+0:06:15.060,0:06:18.940
+E giderlere bakıyorsun. Eşim dil okuluna gitmek istedi. Hani hem çevre edinsin falan diye.
+
+0:06:18.940,0:06:20.700
+Evet çok mantıklı ama parası yüksek.
+
+0:06:21.420,0:06:22.220
+Eee.. Şey yüksek..
+
+0:06:23.180,0:06:25.980
+Evin kirası çok yüksek. Normal aylık yaşam giderleri çok yüksek.
+
+0:06:26.120,0:06:29.940
+Mesela bir akşam geldim, menemen yaptı bana. Hani menemen burda fakir adamın yemeği derler, değil mi?
+
+0:06:30.460,0:06:34.940
+Yani yemin ediyorum 2 kişilik menemenin toplam maliyeti bize $12 mı, $15 mı neydi!
+
+0:06:35.380,0:06:36.860
+Çünkü domatesin 1 tanesi $1 falan zaten!
+
+0:06:36.940,0:06:39.460
+Yani maliyet çok önemli bir faktördü. İkincisi de...
+
+0:06:39.800,0:06:41.140
+Hani eşimin işi. Yani...
+
+0:06:41.360,0:06:42.800
+Kız kaç senedir çalışıyor.
+
+0:06:43.620,0:06:47.260
+E buraya geldi. En az 1.5 sene işsiz kalacak. O sene içerisinde iş bulacağının garantisi yok falan.
+
+0:06:47.260,0:06:48.840
+Baya yıpratıcı bir ortamdı.
+
+0:06:48.980,0:06:53.860
+O yüzden önümüzü göremeyince.. O da dedi ki; yani ben "eski işimde bir pozisyon açıldı tekrar. ben geri dönebilirim" dedi.
+
+0:06:54.340,0:06:57.140
+"Tamam." dedim. "Sen o zaman sana uygun olan şeyi yap. Ben de bir yolunu bulup..."
+
+0:06:57.140,0:06:59.380
+[Doğukan] Eşin de yine yazılımla alakalı mı yoksa..?
+
+0:06:59.380,0:07:03.060
+Ya.. O elektronik mezunu. Hatta sonra fabrikalarda kalite mühendisliği falan yaptı.
+
+0:07:03.060,0:07:05.920
+Sonra şimdi Ericsson'da test mühendisliği yapıyor. O zaman da onu yapıyordu.
+
+0:07:07.140,0:07:09.980
+Çok amaçlı diyeyim. Ama kalite kontrol ağırlıklı gidiyor.
+
+0:07:10.680,0:07:13.980
+Yani aslında orada biraz dediğim gibi.. Zorlasak bulma şansımız vardı ama hani o bir de
+
+0:07:14.440,0:07:19.120
+yemek vs. falan çok farklı kültürler. Uyum sağlayamadı. Ben de sonra.. Gelince farkediyorsun.
+
+0:07:19.120,0:07:21.320
+Hani ordayken ben... Şimdi şöyle bir huyum var benim.
+
+0:07:21.640,0:07:23.140
+Kötü bir şeye alıştırabiliyorum kendimi.
+
+0:07:23.540,0:07:27.100
+O kötü bir şey beni rahatsız etse bile çok farkında değilim. Nasılsa hayatta ilerliyoruz, biraz hayat acımasız
+
+0:07:27.100,0:07:29.380
+bilmem ne falan modunda biraz üzgünsün ama çok belli olmuyor falan.
+
+0:07:29.680,0:07:33.960
+Buraya gelip o rahatlığı görünce; yani mesela ev. Burdaki eve gelip taşındıktan sonra ilk dikkatimi çeken şey...
+
+0:07:34.320,0:07:38.460
+Gece kalkıyorum yataktan. Su içmeye gidiyorum mutfağa. "Allah'ım!" diyorum, "Ne kadar büyük ev! Yürü, yürü bitmiyor!"
+
+0:07:39.140,0:07:42.700
+Yani çok... Hani küçük detaylar gibi geliyor ama insanın hayatını etkiliyor her gün görünce.
+
+0:07:42.980,0:07:43.480
+[Doğukan] Evet.
+
+0:07:43.900,0:07:48.000
+"Bakın.." dedim, "..eşim gitti. Ben de gitmezsem aramız bozulacak artık."
+
+0:07:48.000,0:07:49.360
+Yani sürdürülebilir bir şey değil.
+
+0:07:49.660,0:07:53.260
+Ama "Ben.." dedim, "..sizle çalışmaktan çok mutluyum. Dönüp başka bir şey yapmak yerine,
+
+0:07:53.260,0:07:55.580
+daha önce zaten uzaktan denemiştik, böyle devam edelim."
+
+0:07:55.580,0:07:58.600
+Tabii bu arada takım liderimle de konuşuyorum. "Bak böyle bir durum var. Sen ne diyorsun?" falan diye.
+
+0:07:58.600,0:08:02.960
+"Ya..", dedi, "..sen burdakinin yarısı kadar verimli bile çalışsan bize yeter ordan. Elin güçlü senin bu konuda rahat ol" dedi
+
+0:08:03.460,0:08:07.320
+"İyi" dedik biz de. Konuştuk ondan sonra. Hatta onlar beni böyle Eylül'e kadar falan tutmak istiyorlardı.
+
+0:08:07.320,0:08:11.080
+Dedim ki; "Bakın, Temmuz'da yıldönümüm var. Bırakın yıldönümümde gideyim; bir aile bir araya gelsin" falan.
+
+0:08:11.480,0:08:15.960
+"Tamam" dediler, sağolsunlar. O zamandan beri de; yani 2.5 yıl oldu herhalde buraya geleli...
+
+0:08:16.920,0:08:18.340
+[Doğukan] İzmir'den devam?
+[Burak] Sıkıntısız. İzmir'den devam.
+
+0:08:18.340,0:08:21.120
+Arada Amerika'ya gidip geliyorum ama 1 haftayı, 2 haftayı geçmiyor.
+
+0:08:21.420,0:08:27.940
+[Doğukan] Şu anda Disqus'da bir günün nasıl geçiyor? Yani Disqus diyorum ama aslında evde.. Bir günün nasıl geçiyor tam olarak?
+
+0:08:27.940,0:08:31.640
+Sabah kalkıyorum. Zaten telefon yanı başımda. Daha yataktan kalkmadan e-posta'lara bakıyorum.
+
+0:08:31.640,0:08:35.020
+Mutlaka inbox'a düşmese bile güncel; hani update bilmem ne kısmı,
+
+0:08:35.020,0:08:38.640
+işte şu yama onaylandı, bu yamayı geri çevirdik, burda şöyle bir sorun çıktı falan..
+
+0:08:38.640,0:08:40.900
+Bir sürü 4-5 tane e-posta geliyor. En az.
+
+0:08:41.220,0:08:45.380
+Onlardan, işte, hemen bakıp bakıp silebileceklerimi siliyorum. Ondan sonra bir kalkıyorum.
+
+0:08:45.560,0:08:50.260
+Eğer çok zinde, iyi hissediyorsam direk bilgisayar başına oturup, kahvaltı falan etmeden; pijamalarla aynen o şekilde...
+
+0:08:50.380,0:08:50.900
+[Doğukan] Süper!
+
+0:08:51.480,0:08:54.460
+Sana süper tabii. Eşin aynı fikirde mi bakalım? Neyse..
+
+0:08:55.080,0:09:00.880
+Oturuyorum.. Önce code review istekleri geliyor, onları şey yapıyorum.. halletmeye çalışıyorum.
+
+0:09:01.220,0:09:05.380
+Ondan sonra da iş listesine bakıyorum, genelde yapacağım 1-2 bir şey oluyor, onlarla vakit geçirmeye çalışıyorum.
+
+0:09:05.420,0:09:09.260
+[Doğukan] Frontend takımının başındaki adamsın, diyebilir miyiz, tam olarak?
+
+0:09:09.320,0:09:12.640
+Diyebiliriz ama ordan kayıyorum birazcık.
+
+0:09:12.760,0:09:18.360
+Yani daha çok altyapı sağlıyorum. Zaten frontend takımının başına geçmemin vesilesi de o oldu aslında. 
+
+0:09:18.360,0:09:22.940
+Yani ben normalde frontend ürün geliştiricisi, arayüz bilmem ne yapmaktan... Sürekli onun altyapısını sağlamak
+
+0:09:22.940,0:09:25.920
+işte backbone'da daha iyi modeller nasıl yaparız; işte UniqueModel diye bir şey yaptık.
+
+0:09:25.920,0:09:28.940
+Atıyorum realtime sistemin altyapısını nasıl daha iyi yaparız..
+
+0:09:29.200,0:09:31.980
+..işte build sistemi nasıl adam ederiz, nasıl daha hızlı olur; bunlarla uğraşıyordum.
+
+0:09:32.200,0:09:36.060
+Şimdi gene hala aynı şeylerle uğraşıyorum. Frontend tarafındakilere de teknik liderlik yapıyorum.
+
+0:09:36.060,0:09:38.360
+Hani "bak bu yöne gitmeliyiz", "şöyle yapmalıyız" falan diye..
+
+0:09:38.700,0:09:43.440
+Onun dışında aslında çok, hani böyle iş verme, dağıtma falan; Türkiye'de anlaşılan patronluk tarzı şeyler yapmıyorum.
+
+0:09:43.440,0:09:44.020
+[Doğukan] Anladım.
+
+0:09:44.120,0:09:45.840
+[Doğukan] Seni motive eden şey nedir?
+
+0:09:45.980,0:09:47.700
+İnsanlara yardım etmeyi gerçekten çok seviyorum.
+
+0:09:47.900,0:09:51.640
+Yani sokaktaki insana yardım etmekten başka yerlere yardım etmeye kadar...
+
+0:09:51.640,0:09:55.120
+Ee günlük hayatımda, bir yandan da hayatımın aşkı, çocukluğumdan beri...
+
+0:09:55.120,0:10:00.060
+Yani hayatımın aşkı, eşimden özür diliyerek söylüyorum. Eee, onun dışında: bilgisayar.
+
+0:10:00.460,0:10:01.480
+Programlama
+
+0:10:01.840,0:10:06.100
+Çok da tembel bir adamım aslında, gerçekten bak. Yani böyle popomu kaldırıp burdan bir şey yapmaktansa
+
+0:10:06.100,0:10:10.920
+"ha, onu zaten başka bir şeye yaptırabilir miyim, kod yazıp yaptırabilir miyim?" Makine Mühendisliği'ne bunun için devam edemedim çok.
+
+0:10:10.920,0:10:15.440
+Beni motive eden şey şu.. Yani kod yazmaya bayılıyorum. Böyle tembelliğe bayılıyorum.
+
+0:10:15.440,0:10:19.960
+İnsanlara yardım etmeyi de seviyorum; ikisini birleştirebileceğim en iyi yer işte bu geliştirici verimliliği şeyi oldu.
+
+0:10:19.960,0:10:24.600
+Ben tembel tembel kodumu yazıyorum. Böylece başka insanları da bir emek sarfetmekten kurtarmış oluyorum.
+
+0:10:24.740,0:10:26.900
+[Doğukan] Nasıl bir geliştirme ortamına sahipsin?
+
+0:10:27.080,0:10:31.960
+[Doğukan] Ya öncelikle mesela kullandığın işletim sistemiyle başlayabiliriz. Çünkü çok ciddi önyargılar var.
+
+0:10:31.960,0:10:37.780
+[Doğukan] İşte Windows kullananlara "Sen Windows mu kullanıyorsun, ya Linux kullan, Mac en güzeli" falan tarzında sohbetler var.
+
+0:10:37.780,0:10:40.380
+Ben Burak Yiğit Kaya! Windows'umu kullanıyorum ve çok mutluyum.
+
+0:10:41.700,0:10:43.300
+Ya şaka maka, evet, Windows kullanıyorum.
+
+0:10:43.980,0:10:45.760
+[Doğukan] Terminal'de ne kullanıyorsun peki?
+
+0:10:46.040,0:10:49.940
+Terminal'de ConEmu diye bir şey kullanıyorum. Windows'da kalmamın en büyük sebebi o.
+
+0:10:49.940,0:10:51.820
+Yani onu bulmasaydım kalmazdım Windows'da muhtemelen.
+
+0:10:52.160,0:10:55.000
+Eee, IDE olarak çok uzun süredir PyCharm kullanıyorum.
+
+0:10:55.280,0:10:58.960
+Yan IDE olarak, yani küçük şeyler olarak, eskiden nano kullanırdım. Şimdi vim kullanıyorum.
+
+0:10:59.120,0:11:04.520
+Bir de Visual Studio Code kullanmaya başladım. Böyle daha ufak, çok büyük projeler olmayan projeler için. 
+
+0:11:04.520,0:11:08.980
+Spotify'ı öneriyorum, kullanmıyorsanız. Önceden Google Music kullanıyordum ama Spotify daha iyi.
+
+0:11:10.620,0:11:12.620
+Geliştiricinin kullandığı font çok önemli bir şey.
+
+0:11:12.760,0:11:16.020
+Meslo LG diye bir font ailesine denk geldim; güzel bir font.
+
+0:11:16.180,0:11:18.800
+Whatsapp ya da Hangouts vs. yerine Telegram kullanıyorum artık.
+
+0:11:19.260,0:11:22.620
+Ya onun dışında çok fazla uygulama tavsiye edebilecek göremiyorum. Ha bir de şey; eee f-lux.
+
+0:11:22.620,0:11:27.140
+Çoğu insan kullanıyordur zaten diye tahmin ediyorum. "f.lux" diye yazılıyor. Akşamları ekranı sarartıyor, 
+
+0:11:27.140,0:11:29.140
+böylece gözleriniz acımıyor beyaz ışıktan.
+
+0:11:29.300,0:11:30.800
+[Doğukan] Çalışırken dinlediğin müzikler?
+
+0:11:31.300,0:11:34.100
+Sakin kafa, odaklanmamı sağlayan Jazz dinlemeye çalışıyorum.
+
+0:11:34.820,0:11:39.300
+Eğer çok heyecanlı, böyle mutlu bir günümdeysem hard rock dinliyorum. Bazen hatta metal bile dinliyorum ama
+
+0:11:39.300,0:11:43.220
+metal kafamı karıştırabiliyor gene. Çünkü o da çok hareketli bir yerden sonra.
+
+0:11:44.260,0:11:47.620
+Eğer böyle çok sakin ve böyle elit hissediyorsam kendimi, klasik müzik açıyorum.
+
+0:11:47.620,0:11:52.800
+Ama şunu farkettim; yani klasik müziğin detayı çok fazla olduğu için aslında kod yazarken dinlemeye çalışınca
+
+0:11:52.800,0:11:57.640
+aklın müziğe kayıyor. O yüzden daha çok böyle arkada; mesela bu Jazz Bar'larda falan o arkada çalan hafif 
+
+0:11:57.640,0:11:59.900
+piyano ağırlıklı müzikler vardır; onları tercih ediyorum.
+
+0:12:00.700,0:12:07.600
+[Doğukan] Şimdi sonuçta tasarımcı değilsin ama hani bir Frontend Developer olarak, bir tıkın kaç piksele eşit olduğunu biliyor musun?
+
+0:12:07.880,0:12:09.960
+Çok şey bir soru sordun.. Öznel bir soru sordun.
+
+0:12:09.960,0:12:14.480
+Bana sorsan bir tık bir pikseldir abi. Yani bir tık dediğin zaman; tabii şeyde belki 2 piksel olabilir
+
+0:12:14.480,0:12:17.860
+hani belki retina ekranlarda 2 piksel olabilir belki ama..? Benim için bir tık bir pikseldir.
+
+0:12:18.080,0:12:22.520
+Ama muhtemelen birisi bir tık dediği zaman 5 ilâ 10 piksel arası bir şeyi kastediyordur diye tahmin ediyorum.
+
+0:12:22.740,0:12:23.760
+[Doğukan] Teşekkürler.
+
+0:12:24.640,0:12:26.640
+[Doğukan] Açık kaynak kod hakkındaki düşüncelerin?
+
+0:12:26.800,0:12:29.440
+Dünyayı değiştirebileceğini düşündüğüm bir felsefesi var.
+
+0:12:29.660,0:12:36.140
+Burda sadece Stallman'ın bahsettiği, böyle her şey açık ve özgür olmalı şeyinde değilim. Biraz daha, ben, pragmatik yaklaşıyorum.
+
+0:12:36.400,0:12:40.320
+Hani herkesin rahatça katkıda bulunabileceği kodu düşünüyorum ben.
+
+0:12:40.700,0:12:45.820
+Çok düşünüyorum; ilerde herkesin katılımını sağlayan demokrasi ve yasama-yürütme konusunda aslında
+
+0:12:45.820,0:12:49.800
+bunun temel oluşturacağını düşünüyorum. Çok baya felsefeye, politikaya falan gireceğim ama düşünürsen öyle.
+
+0:12:49.800,0:12:56.860
+Yani herkese her zaman açık ve bu yeni benimsenmeye başlanan Code of Conduct dedikleri şeyler sayesinde
+
+0:12:56.860,0:13:01.700
+gerçekten demokrasi konusunda güzel bir örnek oralar. Ve ortak iş yapma konusunda.
+
+0:13:01.920,0:13:05.540
+Şey gibi düşün yani.. Dışarıda bir tane umumi tuvalet yapılması gerekiyor. Hani... Şey bir örnek..
+
+0:13:05.900,0:13:09.540
+Adam demiş ki: "ya burda umumi tuvalet, 3 tane tuvalet yapmak istiyoruz. Biz şuralarını yaptık ama buralarında
+
+0:13:09.540,0:13:12.900
+eksiklikler var." diyoruz. Sen geçerken bakıyorsun; "ya ben inşaattan anlıyorum abi, geleyim" diyorsun mesela
+
+0:13:12.900,0:13:16.080
+işte 1 saat, 2 saat uğraşıyorsun. Sonra birisi geliyor, "aa çok güzel olmuş" diyor.
+
+0:13:16.320,0:13:19.300
+İşte öbürü diyor: "ya burasını böyle yapalım" falan. Hani açık kaynağı böyle düşünüyorum.
+
+0:13:19.620,0:13:24.120
+2. güzelliği de şu.. Ben bir yere iş başvurusunda bulunacağım zaman eğer açık kaynak katkılarım çoksa
+
+0:13:24.120,0:13:30.260
+yani hiç bir şey yapmama gerek yok. Diyorum ki adama: "Git, GitHub repo'm orada. Geçmişime bak. Bunları bunları yaptım." Gösterebiliyorum.
+
+0:13:30.260,0:13:33.500
+Halbuki şu anda mesela Disqus'da açık kaynak olmayan projelerde "ya onu yaptım, bunu yaptım" diyorum ama
+
+0:13:33.500,0:13:34.540
+ bana inanmak zorunda adam.
+
+0:13:34.540,0:13:35.140
+[Doğukan] Evet.
+
+0:13:35.500,0:13:38.740
+Ve ben adama kodumu da gösteremiyorum. Halbuki açık kaynak olduğu zaman "Abi git işte bak. orda
+
+0:13:38.740,0:13:41.180
+yaptığım iş ortada. Beğeniyorsan aldın, beğenmiyorsan almadın." Bu.
+
+0:13:42.460,0:13:46.400
+Ve çok fazla insan tanımana sebep oluyor. Yani sosyal medyanın yaptığına yakın bir etki yaptı.
+
+0:13:46.400,0:13:51.980
+Mesela Nicholas Zakas, benim ufaklığımdan beri, böyle dikkat ettiğim, takip ettiğim ve hani saygı duyduğum bir adam.
+
+0:13:52.420,0:13:58.040
+Şu an ES'in projesine katkıda bulunurken mesela; o adamla şey.. birebir konuşma imkanım oluyor yani.
+
+0:13:58.040,0:14:01.880
+Beni ciddiye alıyor adam. Benim fikirlerimi dinliyor. Ben ona; onun fikirlerini daha yakından duyabiliyorum falan.
+
+0:14:02.120,0:14:04.540
+Bence inanılmaz bir şey. İnsanları bir araya getiren bir şey.
+
+0:14:05.280,0:14:08.640
+Onun için de mümkün olduğu her an açık kaynağa katkıda bulunmaya çalışıyorum.
+
+0:14:09.300,0:14:11.100
+[Doğukan] Kırılma noktamdı dediğin zaman?
+
+0:14:11.360,0:14:14.600
+Muhtemelen o askerden sonraki zaman. Ya da askere başladığım zaman diyeyim.
+
+0:14:14.600,0:14:18.840
+Evet; askere başladığımda çünkü, yapacak iş bulamadığım için ki ben o zaman asteğmendim, 
+
+0:14:18.840,0:14:22.340
+dedim ki.. Yani bir de "Makine mühendisisin. Bak, makine mühendisi olduğun için seni buraya getiriyoruz"
+
+0:14:22.340,0:14:23.820
+falan demelerine rağmen hiç bir iş vermediler.
+
+0:14:24.120,0:14:29.440
+Orada buldum internet bilgisayarını. Boşluktan ondan sonra; Mozilla'nın MDN wikisine katkıda bulunmaya başladım.
+
+0:14:29.680,0:14:33.040
+Ben ne zaman bunu yapmaya başladım, ondan sonra benim; hakkaten bazı şeyler değişti.
+
+0:14:33.040,0:14:35.540
+Önceden hiç geri dönmüyordu firmalar. Bu sayede geri dönmeye başladı.
+
+0:14:35.540,0:14:40.420
+O arada JSConf EU'ya davet ettiler beni; Mozilla sağolsun. Orada bir ortamı gördükten sonra
+
+0:14:40.420,0:14:43.700
+"evet ya ben burayı yapmalıyım, bu ortamları daha çok takip etmeliyim" dedim.
+
+0:14:43.960,0:14:45.380
+Ondan sonra değişti işler yani.
+
+0:14:45.500,0:14:47.340
+[Doğukan] Unutulmaz, acayip bir hikayen var mı?
+
+0:14:47.500,0:14:48.880
+[Burak] Var.
+[Doğukan] Nedir?
+
+0:14:49.200,0:14:51.080
+Unutulmaz, acayip hikayem eşimle tanışma hikayem.
+
+0:14:51.080,0:14:56.100
+Şimdi ben lisede kod yazıyordum. Delphi'de bir tane şifreleme programı yazdım NTCrypto diye
+
+0:14:56.100,0:14:58.620
+hatta aratsanız hala gezginler.com falan gibi garip sitelerde çıkıyor.
+
+0:14:59.740,0:15:03.800
+Sonra bunu internete koydum. Hakkında kısmına adımı yazdım, e-posta adresimi koydum 2 tane.
+
+0:15:04.020,0:15:07.080
+O zamanlar MSN var. Çok yaygın kullanılıyor. MSN adresim bir tanesi zaten.
+
+0:15:07.080,0:15:08.500
+Neyse; oraya koymuşum.
+
+0:15:08.820,0:15:13.200
+Eşim benden büyük bu arada. Eşim de o sırada bitirme projesini yapıyor. Ben de şeydeyim; üniversite 1. sınıftayım.
+
+0:15:13.720,0:15:18.320
+Bitirme tezi de şifreleme üzerine. Benim programı buluyor, adımı görüyor. Beni MSN'den ekliyor.
+
+0:15:18.700,0:15:23.660
+Yani silmesine.. Yardım ettikten sonra "ya bu adam zaten benimle konuşmaz" falan diyip silecek, kapatacak, bir daha hiç görüşmeyeceğiz.
+
+0:15:23.900,0:15:30.220
+Şans eseri o gün bizim çizim dersimiz var. Çizim laboratuarına gidiyoruz ve ben o çizim laboratuarındaki bilgisayarda güvenlik açığı olduğunu tahmin ediyorum,
+
+0:15:30.500,0:15:33.200
+Yanımda NT Password Reset Disk diye bir disk var.
+
+0:15:33.660,0:15:38.360
+O disketle bilgisayarı açtığınız zaman Linux'dan bilgisayarı açıp, işte, NT'nin şifreleme kısımlarına girip
+
+0:15:38.360,0:15:40.240
+admin şifresini resetleyebiliyorsunuz.
+
+0:15:40.960,0:15:42.960
+O bilgisayarla yoksa hiç bir şey yapamıyorsunuz çizim programından başka.
+
+0:15:43.320,0:15:45.680
+Onunla gitmişim, bilgisayarı resetliyorum.
+
+0:15:46.180,0:15:50.860
+İşte masaüstüne geçmişim, duvar kağıdını değiştiriyorum, arkadaşlara hava atıyorum böyle; "aa napalım duvar kağıdını böyle mi yapalım" falan diye
+
+0:15:50.860,0:15:55.840
+Sonra MSN kurdum. İşte MSN'den girdim ve tam o sırada, ben de MSN'i açmışım ve benim online olduğumu görmüş; tam çıkacağı sırada.
+
+0:15:56.280,0:15:56.780
+[Doğukan] Süper!
+
+0:15:56.840,0:16:01.780
+Ordan konuşmaya başlıyoruz ve şimdi o insanla evliyim. 10 yıldır da tanışıyoruz.
+
+0:16:01.780,0:16:03.620
+[Doğukan] Müthiş, mükemmel!
+[Burak] Evet, ilginç bir hikaye yani.
+
+0:16:04.580,0:16:09.940
+[Doğukan] İş dışında ne yapıyorsun? Yani, bunu da şey.. Aslında Burak Can'ın bir şeyi vardı; yazısı vardı,
+
+0:16:09.940,0:16:13.940
+[Doğukan] Hani hep gidiyoruz, buluşuyoruz, toplanıyoruz falan böyle.. "Hani hep iş, hep iş, hep iş...
+
+0:16:13.940,0:16:19.480
+[Doğukan] ...Başka iş yapmaz mısınız?" falan diyip böyle Fatih'leri falan etiketlediği bir blog yazısı vardı.
+
+0:16:19.480,0:16:24.120
+[Doğukan] Aslında ordan esinlenerek sordum. Yani hep iş yapmıyorsun herhalde? Yani umarım öyledir?
+
+0:16:24.300,0:16:26.840
+[Doğukan] Eee iş dışında yaptığın, ilgilendiğin bir şeyler var mı?
+
+0:16:27.160,0:16:31.320
+LEGO. Hala bu yaşıma rağmen LEGO yapmayı çok seviyorum. Ee, ikincisi fotoğrafçılık.
+
+0:16:31.840,0:16:35.040
+Arada birazcık kendi kendime müzik çalıyorum. Evde küçük bir tane elektronik baterim var.
+
+0:16:35.040,0:16:38.020
+Bir de bisiklete binmeyi çok seviyorum. Ona başladım sonunda tekrar bu aralar.
+
+0:16:39.020,0:16:39.620
+Şimdilik böyle..
+
+0:16:39.780,0:16:45.420
+Doğukan'la tanışalı güzel bir süre oldu. Yaptığı işleri yakından takip ediyorum. Bence bu geliştirici video'ları da çok güzel bir şey.
+
+0:16:45.420,0:16:50.260
+Onun için bence şurdan, eee, şuraya tıklayarak subscribe olabilirsiniz. Eee, abone olabilirsiniz.
+
+0:16:50.620,0:16:52.620
+Takipte kalın. Ben de takip edeceğim.
+
+0:16:52.620,0:16:54.620
+[Doğukan] Teşekkürler.
