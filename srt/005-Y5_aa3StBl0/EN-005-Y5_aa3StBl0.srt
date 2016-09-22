@@ -652,10 +652,10 @@ I'm not talking about the vision Stallman has where he means everything should b
 I mean I'm thinking about code into which everyone can contribute.
 
 0:12:40.700,0:12:45.820
-Actually I think about this a lot. I think, in the future, this idea will be the base of a more participated
+Actually I think about this a lot. I think that, in the future, this idea will form the basis of a more participatory
 
 0:12:45.820,0:12:49.800
-democrasy and legislative-executive. This is a bit philosophy and politics but makes sense when you think about it.
+democrasy and execution-legislation issues. This is a bit philosophy and politics but makes sense when you think about it.
 
 0:12:49.800,0:12:56.860
 I mean it's a quite good example for democrasy thanks to its open nature and the newly adopted things like
