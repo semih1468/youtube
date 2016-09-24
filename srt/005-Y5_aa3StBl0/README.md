@@ -2,4 +2,4 @@
 
 (TR) Amerika'da Menemen 15 Dolar - (Burak Yiğit Kaya)
 
-(EN)
+(EN) Menemen costs $15 in America - (Burak Yiğit Kaya)
