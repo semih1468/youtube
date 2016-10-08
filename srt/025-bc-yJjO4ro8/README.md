@@ -2,4 +2,4 @@
 
 (TR) Çok Başarılı Bir Kötü Örneğim - (Alican Arıcan)
 
-(EN)
+(EN) I'm Very Successful A Bad Example - (Alican Arıcan)

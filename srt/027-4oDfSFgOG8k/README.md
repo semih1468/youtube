@@ -2,4 +2,3 @@
 
 (TR) Şirketimi Hawaii'de Tatil Yaparken Sattım - (Berkan Kısaoğlu)
 
-(EN)

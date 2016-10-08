@@ -2,4 +2,4 @@
 
 (TR) Zek'in Trolleri - Kamera Arkası
 
-(EN) Zek and Trolls - Backstage
+(EN) Zek's Trolls - Backstage

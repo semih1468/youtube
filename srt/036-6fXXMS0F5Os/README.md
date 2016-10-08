@@ -2,4 +2,3 @@
 
 (TR) Önceki Yazılımcı Bir Kara Deliktir - (Zekeriya Koç)
 
-(EN)
