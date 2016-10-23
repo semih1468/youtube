@@ -52,6 +52,17 @@ Keep in mind that these subtitles would make our channel accessible to people wi
  - [GitHub](srt/034-0ngnYxfzr08) - [YouTube](http://www.youtube.com/timedtext_video?v=0ngnYxfzr08&ref=share) _034 Ben Front End Developer'ım dedim de sen diyemedin Anne - (Nuray & Okan Nomak)_
  - [GitHub](srt/035-_pMilA-D60Y) - [YouTube](http://www.youtube.com/timedtext_video?v=_pMilA-D60Y&ref=share) _035 Acun Siteye Girin Dediği Anda 200 Bin Kişi Girdi - (Mengu Kagan)_
  - [GitHub](srt/036-6fXXMS0F5Os) - [YouTube](http://www.youtube.com/timedtext_video?v=6fXXMS0F5Os&ref=share) _036 Önceki Yazılımcı Bir Kara Deliktir - (Zekeriya Koç)_
+ - [GitHub](srt/037-cBdwlPcjzjQ) - [YouTube](http://www.youtube.com/timedtext_video?v=cBdwlPcjzjQ&ref=share) _037 Ben Yarın Ölsem Yazdığım Kod Orada Duracak - (Ender Ahmet Yurt)_
+ - [GitHub](srt/038-uV4AaAbr5HE) - [YouTube](http://www.youtube.com/timedtext_video?v=uV4AaAbr5HE&ref=share) _038 Mengu Kagan - Twitter Soruları_
+ - [GitHub](srt/039-xT1nSxxQELQ) - [YouTube](http://www.youtube.com/timedtext_video?v=xT1nSxxQELQ&ref=share) _039 HERKES PROJE YAPIP YIRTMANIN PEŞİNDE_
+ - [GitHub](srt/040-1wHsJvpB6SI) - [YouTube](http://www.youtube.com/timedtext_video?v=1wHsJvpB6SI&ref=share) _040 Sahibinden.com Patlasa Kovulabilirdim - (Murat Çorlu)_
+ - [GitHub](srt/041-vfTGN1qKTr4) - [YouTube](http://www.youtube.com/timedtext_video?v=vfTGN1qKTr4&ref=share) _041 Developer Talk Show (01. Bölüm)_
+ - [GitHub](srt/042-HZhuTzLYEe8) - [YouTube](http://www.youtube.com/timedtext_video?v=HZhuTzLYEe8&ref=share) _042 YOLCULUK NEREYE ? Kanalı daha fazla insana duyurmama yardım edin lütfen :)_
+ - [GitHub](srt/043-Eaf_SizCs48) - [YouTube](http://www.youtube.com/timedtext_video?v=Eaf_SizCs48&ref=share) _043 Siber Güvenlikten Korkmayın - PAU Siber_
+ - [GitHub](srt/044-SVvpnIBqEJ8) - [YouTube](http://www.youtube.com/timedtext_video?v=SVvpnIBqEJ8&ref=share) _044 ANNE BEN YOUTUBER OLDUM (01. Gün)_
+ - [GitHub](srt/045-On6mPKvQUaM) - [YouTube](http://www.youtube.com/timedtext_video?v=On6mPKvQUaM&ref=share) _045 DÜNYAYI DEĞİŞTİREBİLİRİZ (02. Gün)_
+ - [GitHub](srt/046-TyKvk0GSfRU) - [YouTube](http://www.youtube.com/timedtext_video?v=TyKvk0GSfRU&ref=share) _046 Kapatıyorum Odaya Kod Yazdırıyorum - (Seylan Çınar Kaya)_
+ - [GitHub](srt/047-EwN1wZUCpdY) - [YouTube](http://www.youtube.com/timedtext_video?v=EwN1wZUCpdY&ref=share) _047 Bir Tık Üç Bıyık Bükümü - (Fatih Erikli)_
 
 ## Katkıda bulunanlar (Contributors)
   - [Burak Yiğit Kaya](https://github.com/BYK)
