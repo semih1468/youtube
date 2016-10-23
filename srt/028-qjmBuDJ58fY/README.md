@@ -2,4 +2,4 @@
 
 (TR) Bahattin'in Trolleri - Kamera Arkası
 
-(EN) Bahattin and Trolls - Backstage
+(EN) Bahattin's Trolls - Backstage

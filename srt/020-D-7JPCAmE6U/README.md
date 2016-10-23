@@ -2,4 +2,4 @@
 
 (TR) Kadın Yazılımcı Nedir - Kader Sucuk
 
-(EN) What Is Women Programmer? - (Kader Sucuk)
+(EN) What Is Women In Tech - Kader Sucuk
