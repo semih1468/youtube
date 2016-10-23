@@ -2,4 +2,4 @@
 
 (TR) Python Hacısı Nasıl Olunur - (Emre Yılmaz)
 
-(EN)
+(EN) How To Be Python Master? - (Emre Yılmaz)

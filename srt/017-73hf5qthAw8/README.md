@@ -2,4 +2,4 @@
 
 (TR) Domates Ekme Hayalimiz Var - (Cihan Okyay)
 
-(EN)
+(EN) We Have Planting Tomato Dream - (Cihan Okyay)

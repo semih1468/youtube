@@ -2,4 +2,4 @@
 
 (TR) Önceki Yazılımcı Bir Kara Deliktir - (Zekeriya Koç)
 
-(EN)
+(EN) Previous Developer Is A Black Hole - (Zekeriya Koç)

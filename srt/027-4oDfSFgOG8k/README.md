@@ -2,4 +2,4 @@
 
 (TR) Şirketimi Hawaii'de Tatil Yaparken Sattım - (Berkan Kısaoğlu)
 
-(EN)
+(EN) I Sold My Company While Vacationing In Hawaii - (Berkan Kısaoğlu)

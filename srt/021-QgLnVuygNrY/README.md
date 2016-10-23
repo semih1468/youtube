@@ -2,4 +2,4 @@
 
 (TR) Open Source’u Seviyorum - (Kader Sucuk)
 
-(EN)
+(EN) I Love Open Source - (Kader Sucuk)

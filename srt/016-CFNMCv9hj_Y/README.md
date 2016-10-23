@@ -2,4 +2,4 @@
 
 (TR) Tasarıma Annemin Düğmelerini Kullanarak Başladım - (Hasan Yalçın)
 
-(EN)
+(EN) I Started Design Using My Mother's Buttons - (Hasan Yalçın)
