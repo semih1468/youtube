@@ -1,73 +1,71 @@
 0:00:00.000,0:00:03.120
-[Doğukan] How would you describe Burak Yiğit Kaya to someone you never met?
+[Doğukan] How would you describe Burak Yiğit Kaya to someone who never met you?
 
 0:00:03.640,0:00:05.320
-A geek. That'd be it.
+Crazy about computers. That's it.
 
 0:00:05.820,0:00:11.900
-A geek since childhood, someone who loves helping other people.. I'd say for myself.
+Crazy about computers since childhood, someone who loves helping other people.. That's what I'd say for myself.
 
 0:00:11.900,0:00:13.340
-[Doğukan] How did you start developing code?
+[Doğukan] How did you start development?
 
 0:00:13.920,0:00:18.600
-When I was around an age of 9-10, I'd say, my father finally bought a Commodor 64.
+When I was around of age 9 or 10, I'd say, my father finally bought a Commodore 64.
 
 0:00:19.020,0:00:24.460
-I mean developing code. Otherwise, I think, I stuck around with computers since I was 3 or 4. My cousin's family were
-in a better situation at the time
+I mean developing code. Otherwise, I think, I stuck around with computers since I was 3 or 4. My cousin's family were financially better at the time
 
 0:00:24.460,0:00:26.740
-and they had this 386 or 486, whatever.
+and they had this 386 or 486 or something.
 
 0:00:27.260,0:00:30.900
-I was typing DOS commands back then. And I was pressuring my father to buy me one.
+I was typing DOS commands back then. And I was badgering my dad "[buy a] computer, computer".
 
 0:00:30.900,0:00:32.200
-And he had to buy me a Commodor 64 in the end.
+And finally they bought this Commodore 64 for me.
 
 0:00:32.200,0:00:37.480
-He told me: "Look, this thing is BASIC's interpreter.."
+He told me: "Look, this thing is BASIC's compiler, interpreter"
 
 0:00:37.840,0:00:40.560
-"Ready.." it said waiting for you to type in commands..
+"READY." it says, waiting for you to type in commands...
 
 0:00:41.360,0:00:46.080
-And there my father told me: "Look..", he said, "..this is the input, n and $ etc.. and you get the input that way"
+And there my father told me: "Look", he said, "...by typing `INPUT N$` you can get user input"
 
 0:00:46.080,0:00:48.340
-I was trying to write silly calculators as my first programs.
+I was writing silly calculators
 
 0:00:48.340,0:00:52.560
-The thing was able to show you the result when you just types 3+5 but we were asking for the input in a fancy way
-like "please type your input" etc..
+If you just typed `3+5` the machine already does the addition but we were asking like "please type your operation type" etc..
 
 0:00:53.140,0:00:56.900
-That's how I started. And then I got a scholarship in a college
+That's how I started. And then I got a scholarship at a private school
 
 0:00:57.140,0:01:04.240
-where I first met Windows 95, the web, JavaScript, HTML etc.. Some guy suggested me to work on those things back then.
+There I met Windows 95, the web, JavaScript, HTML etc.. Some guy suggested me to work on those things back then.
 
 0:01:04.240,0:01:08.140
-Around 2nd or 3rd grade in middle school I was mainly focused on JavaScript.
+Around 2nd or 3rd grade in middle school I started to seriously work with JavaScript.
 
 0:01:08.220,0:01:09.400
-[Doğukan] In which year were you born?
+[Doğukan] In which year were you born in?
 
 0:01:09.400,0:01:15.940
-I was born in 88. So that means I wrote my first JavaScript code around 2001 but you can find none of them online.
+I was born in 88. I guess I wrote my first JavaScript code around 2001 but they are not on the internet.
 
 0:01:16.360,0:01:19.540
-Of course those codes were horrible. There was limited internet connection,
+I was writing terrible and silly codes. There was limited internet connection,
 
 0:01:19.540,0:01:24.020
-no search engines at all, Google either didn't exist or wasn't working at all. It was a time like that.
+no search engines at all, Google either wasn't working great or didn't exist at all. It was a time like that.
 
 0:01:24.200,0:01:27.580
-And I was trying to learn JavaScript from patchy, stupid sample books.
+And I was trying to learn JavaScript from these stupid books that just collected code samples from the internet.
 
 0:01:27.960,0:01:32.060
-I met a friend at 1st grade in high school. He was a geek as well with those books etc..
+I met this friend at my first year in high school. He was a geek as well with those books etc..
 
 0:01:32.300,0:01:33.040
 [Doğukan] Was he in İzmir as well?
@@ -76,43 +74,43 @@ I met a friend at 1st grade in high school. He was a geek as well with those boo
 No. In fact I came to İzmir years later. People think that...
 
 0:01:35.280,0:01:36.380
-[Doğukan] Where are you from originally then?
+[Doğukan] Where are you originally from then?
 
 0:01:36.380,0:01:38.780
 It's in fact where I was born and grown in: Kocaeli, Yalova.
 
 0:01:40.140,0:01:43.560
-And this friend of mine also lived in Yalova. His name is Tuna Akın; let me take the opportunity to say hi to him.
+And this friend also lived in Yalova. His name is Tuna Akın; let me take the opportunity to say hi to him.
 
 0:01:44.820,0:01:46.100
-We still hang out time to time.
+We still talk, though seldom.
 
 0:01:46.580,0:01:50.560
-He had this huge book about Delphi and taught me about it.
+He... He thought me Delphi. He had this huge book. He was like "There's this thing called Delphi" etc...
 
 0:01:50.560,0:01:52.940
-Back then, CSS was relatively new for web.
+I looked at that; back then, CSS was quite new on the web.
 
 0:01:53.380,0:01:56.400
-Moving things around was incredibly tough. Delphi had a graphical form editor where you just pull things...
+Laying things out visually was horribly hard. Delphi had a graphical form editor where you just pull things...
 
 0:01:56.400,0:01:57.040
-[Doğukan] Drag & drop..
+[Doğukan] Drag & drop...
 
 0:01:57.040,0:01:59.640
-Yeah, drag & drop.. And I said: "Gosh! What a wonderful thing is this!"
+Drag & drop... And I said: "My god, What a wonderful thing this is!"
 
 0:01:59.960,0:02:02.040
 Meanwhile my friend was also learning Assembly.
 
 0:02:02.860,0:02:07.600
-Showing me Assembly codes like mod ax bx etc. and I said: "wait what? this isn't computer code, this is ridiculous!"
+He was showing me these Assembly codes like `mov ax, bx` etc. and I said: "what the hell? This isn't computer code, this is weird and ridiculous!"
 
 0:02:07.900,0:02:10.320
-Anyways.. We just got deeper into these things.
+Anyways... We got deeper into these things.
 
 0:02:10.680,0:02:12.500
-Then I started working for a company while I was 1st grade at the university.
+Then I started working for a company on my freshman year at the university.
 
 0:02:13.920,0:02:15.580
 [Doğukan] What did you study?
@@ -124,134 +122,134 @@ Mechanical Engineering.
 [Doğukan] Mechanical Engineering...
 
 0:02:18.100,0:02:18.800
-Yes..
+Yes...
 
 0:02:19.200,0:02:21.060
-[Doğukan] Can you tell us about America and Disqus?
+[Doğukan] Can you tell us about the US and Disqus?
 
 0:02:21.340,0:02:24.480
-I have just completed military obligation. Wanted to get married, I was already engaged.
+Just completed my military obligation. Wanting to get married with my now-wife. We were already engaged.
 
 0:02:24.480,0:02:27.620
-We were already past the 2nd year of our engagement at the end of my time in military.
+It was actually almost marking our second year of our engagement by the time I got out from military.
 
 0:02:27.620,0:02:29.700
-It was either 1 or 1.5 years, I guess.
+1.5 years... I think it was either 1 or 1.5 years.
 
 0:02:29.940,0:02:36.080
-And I was looking for a job. I was constantly applying to Google, Twitter etc. while I was in the university.
+And I was looking for a job. I was constantly applying to Google, Twitter etc. while I was at college.
 
 0:02:36.080,0:02:37.420
-Of course none of them responded.
+Of course, none responded.
 
 0:02:37.880,0:02:43.540
-Anyways.. Then things have changed in a good way, right around the end of my time in military. As if they were
-requiring candidates to complete military obligation just like in Turkey.
+Anyways... Then things started to change in a good way. Right around the end of my time in military... As if they were too
+requiring candidates to have no military obligation just like in Turkey.
 
 0:02:43.540,0:02:48.380
-Companies started to respond. Disqus was the 2nd. We started the interviews..
+Companies started to respond. Disqus was the 2nd. We started the interview process...
 
 0:02:48.380,0:02:52.440
-We quickly completed the first 2 stages in December but then there was Christmas holiday.
+We quickly completed the first 2 stages in December but then there was Christmas.
 
 0:02:52.440,0:02:58.680
-They told me that they'd like me to visit their offices for another interview after the Christmas holiday.
+They told me that they'd like me to visit their offices for an on-site after Christmas.
 
 0:02:58.680,0:03:04.040
-I said OK, perfect! Then we started the interview which was pretty intense and almost took about 6-7 hours.
+I said OK, perfect! Then we got to this intense, 6-7 hour-long interview.
 
 0:03:04.040,0:03:08.020
-I was jet lagged. And it's America afterall, a totally different place.
+I was jet lagged, saying things like "huh? whaa?" to everything. And it's my first trip to the US afterall, a totally different place.
 
 0:03:08.660,0:03:14.300
-I got the job. Of course we had to wait for the visa application for a long time.
+Then I got the job. Of course we had to wait for the visa for a long time.
 
 0:03:14.300,0:03:15.900
-That's why I started working as a remote contractor in April.
+That's why I started working earlier in April. I mean as a contractor, from remote.
 
 0:03:16.420,0:03:22.560
-When April came and things such as my situation, wage etc. were certain, I told my wife: "ok, let's get married".
+When April came and things such as my immediate future, income etc. were a bit more certain, I told my wife: "ok, let's get married".
 
 0:03:22.560,0:03:24.000
-At least we could now foresee the feature.
+At least we could now see ahead.
 
 0:03:24.000,0:03:24.500
-[Doğukan] Hmm.. Got it.
+[Doğukan] Hmm... Got it.
 
 0:03:24.500,0:03:28.280
-We hurriedly decided this on April. Maybe even at the end of April.
+We hurriedly decided this on April. Even towards the very end of April actually.
 
 0:03:28.280,0:03:29.880
 And then got married in the middle of July.
 
 0:03:30.180,0:03:34.880
-We might not even be able to find a place to get married but luckily we did.. On a Monday!
+We might not even be able to find a venue for the wedding. But luckily [we did]... We got married on a Monday for this reason.
 
 0:03:34.880,0:03:37.180
-People were asking: "What are you doing? Who marries on a Monday?"
+People were asking: "What are you doing? Who marries on a Monday?!"
 
 0:03:37.180,0:03:41.580
-We didn't have a place to live. And we didn't want to settle one since we were about to move.
+We didn't have a place to live. And we didn't want to settle either since we were going to move in a few months.
 
 0:03:41.580,0:03:45.500
-Therefore we found a furnitured flat with a single room. Moved in.
+Therefore we found a furnished flat with one bedroom. Moved in.
 
 0:03:46.000,0:03:48.080
-Then I flew to America, beforehand.
+Then I flew to the US, before my wife.
 
 0:03:48.900,0:03:53.580
-My wife lived there until the end of the year. I flew in October and for 1 or 2 months..
+My wife lived there until the end of the year. I flew out in October. For the first 1 or 2 months...
 
 0:03:53.580,0:03:56.080
-..I lived in a horrible neighbourhood called Mission District. It was in fact Mission & 16th Street
+...I lived in a sketchy, terrifying neighbourhood called the Mission District. It was in fact Mission & 16th Street
 
 0:03:56.080,0:03:58.920
-for those who have been to San Francisco before. A horrible place.
+Those who've been to San Francisco before would kow it. A horrible place to live.
 
 0:03:59.720,0:04:00.840
 I lived there for 2 months.
 
 0:04:01.640,0:04:04.080
-In fact the initial plan was to live there for a month and find a place to live but I failed to do so.
+In fact the initial plan was to live there for a month and find a permanent place to live but I couldn't find anything.
 
 0:04:04.220,0:04:06.280
-It's so hard to find an affordable place to live.
+It's so hard to find place to live, let alone affordable.
 
 0:04:06.280,0:04:11.520
-But I managed to find a place in a nice neighbourhood called Marina District. No homeless people. Again with a single room.
+But I managed to find a place in a nice neighbourhood called the Marina District. No homeless people, much... Again, single bedroom.
 
 0:04:12.100,0:04:13.980
-But it was beautiful and very very expensive.
+But it was beautiful and expensive as hell.
 
 0:04:14.520,0:04:18.480
-Anyways.. I put all of my things into those IKEA bags.
+Anyways... I put all my belongings from that damn place into those IKEA bags.
 
 0:04:19.020,0:04:20.740
-Those blue, thick bags..
+Those blue, thick bags...
 
 0:04:21.260,0:04:23.920
 Then called a cab, put everything into the trunk and left
 
 0:04:23.920,0:04:25.920
-while thinking: "Fuck this place"
+while thinking: "Fuck this place".
 
 0:04:26.620,0:04:28.180
 Then I got back to Turkey
 
 0:04:28.920,0:04:29.600
-to help my wife while moving out.
+to bring my to US with me.
 
 0:04:29.860,0:04:31.580
-We ended the contract there
+Then... we moved out.
 
 0:04:32.460,0:04:33.020
-and that's how we moved.
+We had like...
 
 0:04:33.460,0:04:36.380
-3 or 4 luggages or even 5..? Not 5 but 4, I guess..
+3-4 pieces of luggage or even 5... Not 5 but 4, I guess.
 
 0:04:36.380,0:04:39.840
-No, in fact it was 5. I mean 5 luggages full of my wive's belongings.
+No... in fact it was 5. I mean 5 pieces of luggage full of my wive's belongings.
 
 0:04:40.780,0:04:44.900
 When we were at the airport, the Turkish Airlines rep teased me: "Which one is yours?"
@@ -263,106 +261,106 @@ And then said: "Haha! Ladies of course have the bigger ones, don't they?"
 I couldn't tell her that actually all of it belonged to my wife...
 
 0:04:51.340,0:04:53.120
-Err then.. Then we left the country.
+Err then... Then we left the country.
 
 0:04:55.120,0:04:57.940
-It all started that way. I mean even the moving part was a pain in the ass.
+It all started that way. I mean even the moving in part was painful.
 
 0:04:57.940,0:05:01.380
-And then since we didn't have any furnitures, I suggested my wife to buy them together.
+And then when we arrived, there's no furniture at all. I told my my wife "I wanted to pick everything together..."
 
 0:05:02.080,0:05:04.280
-And we went to IKEA, but without a car. Thought about renting one
+Then we went to IKEA, but without a car. Thought about renting one
 
 0:05:04.280,0:05:08.860
-but we decided not to or maybe we were afraid of having trouble with the new traffic rules, I don't know.
+but we decided not to for some reason. Maybe we were afraid of having trouble with the new traffic rules, I don't know.
 
 0:05:08.860,0:05:11.540
 We rode a bus to IKEA. Again buying things with lots of bags.
 
 0:05:11.840,0:05:14.400
-Things like forks, knives, pots etc..
+Things like utensils, pots etc...
 
 0:05:14.860,0:05:16.140
-That was an amazing story..
+It was an interesting adventure.
 
 0:05:16.460,0:05:21.620
-[Doğukan] Everyone has this super dream about moving to America and working for a company.
+[Doğukan] This is like everyone's dream... I mean, to go to United States, work for a company there, awesomely.
 
 0:05:22.000,0:05:27.160
-[Doğukan] Why, on the contrary, you gave up and moved back to Turkey?
+[Doğukan] Why, on the contrary, you gave up this everyone's awesome dream and decided to move back?
 
 0:05:27.400,0:05:31.480
-Well, my wife had to resign from her job in Turkey in order to come to America with me.
+Well, my wife had to resign from her job in Turkey in order to come [to the states] with me.
 
 0:05:32.020,0:05:36.400
-I didn't know what my net income would be while moving to US. You only know your gross income then it becomes less after all those taxes etc..
+I didn't know what my net income would be. You only know your gross income then they deduce the taxes etc.
 
 0:05:36.900,0:05:40.560
-Once we arrived, we quickly found out that rents are more expensive and my income was less than what we were told.
+Once we arrived, we quickly found out that rents are more expensive and my income was less than what we assumed.
 
 0:05:40.960,0:05:43.120
-I mean our expectations were wrong in a really bad way.
+I mean we have proceeded towards the worce scenarios in our predictions.
 
 0:05:43.800,0:05:46.920
-Now we needed to find a job for my wife but her arrival was the end of January.
+Now we needed to find a job for my wife and her arrival was towards the end of January.
 
 0:05:47.760,0:05:53.800
-She would have to find a job and apply for H1B before April so that she could start working on October the same year.
+She would have to find a job and apply for an H1B by April so that she could start working on October same year.
 
 0:05:54.400,0:05:58.460
-Her English isn't that bad but we didn't know whether it was enough to work there or not.
+Her English isn't bad at all but we also didn't know whether it was enough to work there or not.
 
 0:05:59.580,0:06:03.380
-And all the people I knew there were from the developer community but she was rather an Electrical Engineer.
+And all the people I knew there were from the developer community but she was rather an Electronics Engineer.
 
 0:06:03.380,0:06:06.520
-She used to work as a Test Engineer and we failed to find a position for her.
+She used to work as a Test Engineer. We failed to find a good fit for her.
 
 0:06:07.080,0:06:10.780
-Around the end of 2nd month, I mean around March, we found out that
+Around the end of our 2nd month, I mean around March, we found out that...
 
 0:06:11.660,0:06:13.540
-it's not going to work at least this year.
+it's not going to happen this year.
 
 0:06:15.060,0:06:18.940
-We looked at our expenses. And she also wanted to go to a language school not just to practice the language but also to have some friends.
+Then we looked at our expenses. My wife wanted to go to a language school mostly to get into a community, have some local friends.
 
 0:06:18.940,0:06:20.700
-It made sense but it was really expensive.
+It made perfect sense, but it was expensive.
 
 0:06:21.420,0:06:22.220
-Erm.. And rent was pretty high.
+Erm.. And then the rent was pretty high.
 
 0:06:23.180,0:06:25.980
 Our monthly expenses were pretty high.
 
 0:06:26.120,0:06:29.940
-You know what? One night she cooked menemen when I came home. As you know it's poor man's meal, right?
+You know what? One night she cooked menemen (eggs scrambled with tomatoes and onion) when I came home. It is the poor man's dinner here in Turkey, right?
 
 0:06:30.460,0:06:34.940
 I swear to God, the total cost of it to us was about $12 or $15!
 
 0:06:35.380,0:06:36.860
-Because just even a tomato costs around $1!
+Because just even a single tomato costs around $1!
 
 0:06:36.940,0:06:39.460
-I mean costs were an important factor. And the second was...
+I mean expenses were an important factor. And the second was...
 
 0:06:39.800,0:06:41.140
-...the lack of a job for my wife. I mean...
+...the lack of a working opportunity for my wife. I mean...
 
 0:06:41.360,0:06:42.800
-...after all those years she worked?
+She's been working for years.
 
 0:06:43.620,0:06:47.260
-She comes to this new place and cannot even find a job for at least 1.5 years. And there is no guarentee either.
+She comes to this new place and there's no hope for a job for at least 1.5 years. And even after then, there is no guarentee either.
 
 0:06:47.260,0:06:48.840
 It was pretty exhausting.
 
 0:06:48.980,0:06:53.860
-When we couldn't foresee our future she said: "Look, my ex company just had this opening. Maybe I'll go back?"
+So when we couldn't see clear ahead, she said: "Look, my ex company just had this opening. Maybe I'll go back?"
 
 0:06:54.340,0:06:57.140
 I had to say "OK". "Do whatever you need and I'll see what I can do..."
@@ -371,233 +369,233 @@ I had to say "OK". "Do whatever you need and I'll see what I can do..."
 [Doğukan] Does your wife also work on software or what?
 
 0:06:59.380,0:07:03.060
-Well, she's an Electrical Engineer. She worked as a QA Engineer at some factories.
+Well, she graduated from electronics [engineering]. She worked as a QA Engineer at some factories.
 
 0:07:03.060,0:07:05.920
-Now she works for Ericsson as a Test Engineer and she used to do the same at that time.
+Now she works for Ericsson as a Test Engineer and she used to do the same back then.
 
 0:07:07.140,0:07:09.980
 Let's say she's multi functional. But she mainly works on quality assurance.
 
 0:07:10.680,0:07:13.980
-I mean, maybe if we pushed hard, we could find a position for her. But then,
+I mean, as I've said... We could have found a position for her if we tried hard. But even then,
 
 0:07:14.440,0:07:19.120
-there is this cultural differences such as food etc.. She couldn't adapt. Neither do I. You notice when you're back.
+there is this cultural differences such as food etc... She couldn't really adapt. Neither did I. You notice when you're back.
 
 0:07:19.120,0:07:21.320
-I mean when I was here.. I had this habit.
+I mean when I was here... I have this thing.
 
 0:07:21.640,0:07:23.140
-Habit of getting used to anything unhealthy.
+I can used to something pretty uncomfortable.
 
 0:07:23.540,0:07:27.100
-I wasn't so aware even though that habit makes me uncomfortable. Life moves on nontheless and it's sometimes cruel
+Even if that uncofrtable thing starts bugging me I tend to not realize this. I'm like life just goes on and it's sometimes cruel
 
 0:07:27.100,0:07:29.380
-You're sad about it but you don't care at the same time.
+or whatever and you're a bit sad about it but you don't really notice it that much etc.
 
 0:07:29.680,0:07:33.960
-When you come back and notice the difference, the comfort. I mean the place I live for instance.
+When you come back and experience that relaxation, the comfort like the place I live in for instance.
 
 0:07:34.320,0:07:38.460
- The first thing that struck me first when I got back was that I got up at night to drink water in the kitchen and I noticed how big this place was.
+The first thing that struck me when I got back and moved in was... I get up at night to get some water from the kitchen and I'm like "My god, this place is huge, I keep walking and walking to the damn kitchen!"
 
 0:07:39.140,0:07:42.700
-I know these are just small details but it affects your life a lot when you start to live with it.
+I mean... I know these are, like, small details but they affect your life a lot when you start to experience them every single day.
 
 0:07:42.980,0:07:43.480
 [Doğukan] Right.
 
 0:07:43.900,0:07:48.000
-So I said to my employer: "Look", I said, "my wife has returned. And I'll be in trouble soon if I don't as well."
+"Look...", I told my employer, "...my wife has returned. And I'll be in trouble soon if I don't as well."
 
 0:07:48.000,0:07:49.360
 I mean it's not sustainable.
 
 0:07:49.660,0:07:53.260
-"But..", I said, "..I'm pretty happy working for you and would love to continue working for you instead of
+But, "I am...", I said, "...pretty happy for working with you. Instead of going back and doing something else,
 
 0:07:53.260,0:07:55.580
-working for someone else. I mean things worked out well when I was working remotely, so let's continue with that."
+let's keep going since we've tried working remotely before [and it worked]."
 
 0:07:55.580,0:07:58.600
-Meanwhile I was, of course, discussing this with my team lead as well, asking his opinions.
+Meanwhile, I was of course, discussing this with my team lead as well, asking his opinions.
 
 0:07:58.600,0:08:02.960
-He said: "It'd be OK for us even if you work half the effort like you do now. You should be good so just relax."
+He said "It'd be OK for us even if you work at half the efficiency you do right now. You should be good so just relax."
 
 0:08:03.460,0:08:07.320
-We agreed and discussed the details. In fact they wanted to keep me staying until September
+I agreed and then discussed the details. Actually, they wanted to keep me around until September.
 
 0:08:07.320,0:08:11.080
-but I said: "Look, we have our anniversary on July and I gotta be there. Let the family unite." etc..
+I said: "Look, we have our anniversary on July so let me be there; let the family reunite." etc.
 
 0:08:11.480,0:08:15.960
-Thankfuly, they were OK with it. And since then, which is 2.5 years by now, we live here...
+Thankfuly, they said "OK". And since then, which has been almost 2.5 years now...
 
 0:08:16.920,0:08:18.340
 [Doğukan] Living in İzmir?
-[Burak] Absolutely. Living in İzmir.
+[Burak] Without any trouble. Living in İzmir.
 
 0:08:18.340,0:08:21.120
-Of course I go to US from time to time but that doesn't exceed 1 or 2 weeks.
+Of course I go to the US from time to time but that doesn't exceed 1 or 2 weeks.
 
 0:08:21.420,0:08:27.940
-[Doğukan] How do you spend a day when you work for Disqus? Of course I mean at home when I say Disqus.. How do you spend the day?
+[Doğukan] How do you spend a day now at Disqus? Of course I mean at home when I say "at Disqus"... How exactly do you spend your day?
 
 0:08:27.940,0:08:31.640
-I get up in the morning. My phone is right next to me so I check my emails without even leaving the bed.
+I get up in the morning. My phone lays beside me always. So I check my emails even before leaving the bed.
 
 0:08:31.640,0:08:35.020
-Usually there are at least 4-5 emails in my inbox, rather Updates tab,
+There's always [something], even if there's nothing directly in inbox, these updates etc.
 
 0:08:35.020,0:08:38.640
-about things like an approval of a patch or a deniel because of a certain problem..
+like this patch got approved, or that patch got rejected, there was a problem in this system etc...
 
 0:08:38.640,0:08:40.900
-So I read through all of them
+Lots of, several e-mails I get. At least.
 
 0:08:41.220,0:08:45.380
-trying to delete whatever I can after a quick gaze and then I get up.
+I try to delete as much of them after quickly reading them. Then I get up.
 
 0:08:45.560,0:08:50.260
-If I feel good, I start working with my computer right away with my pijamas on and without even having a breakfast..
+If I feel energetic, good, I get to my computer right away, without breakfast, with my pijamas on, just as I get up...
 
 0:08:50.380,0:08:50.900
-[Doğukan] Super!
+[Doğukan] Awesome!
 
 0:08:51.480,0:08:54.460
-Of course it'd be super for you! But what would your wife say about it? Anyways..
+Awesome yourself, let's hear what your wife thinks about it? Anyways...
 
 0:08:55.080,0:09:00.880
-So I sit.. First start to deal with the code review requests.
+So I sit... First I try to deal with the code review requests...
 
 0:09:01.220,0:09:05.380
-Then I look at the backlog. Usually there is a bunch of things to work on so I spend my time working on them.
+Then I look at my task list. Usually there are at least a few things to work on so I spend my time working on them.
 
 0:09:05.420,0:09:09.260
 [Doğukan] Can we say you're the guy leading the frontend team?
 
 0:09:09.320,0:09:12.640
-Yes we can but I started to switch responsibilities.
+Yes we can but I started to drift off from that position a bit.
 
 0:09:12.760,0:09:18.360
-I mean I'm more into providing infrastructure now. And that's also the thing that caused me to become the lead eventually.
+I mean I'm mostly providing infrastructure now. And that's also the thing that lead me to become the lead eventually.
 
 0:09:18.360,0:09:22.940
-I mean, I used to be a frontend developer, developing interfaces etc.. But nowadays I try to improve our infrastructure,
+I mean, I used to be a front-end product engineer, developing interfaces etc... But nowadays I try to improve our infrastructure,
 
 0:09:22.940,0:09:25.920
-try to findout better ways of creating models in backbone. Recently we have created something called a UniqueModel.
+like how to have better models in Backbone. Recently we have created something called UniqueModel.
 
 0:09:25.920,0:09:28.940
-For example, things like improving the infrastructure of our realtime system..
+For example, things like improving the infrastructure of our realtime system...
 
 0:09:29.200,0:09:31.980
-..or fix build pipeline issues, make it faster; things like these.
+...or how to improve the build system, how can we make it faster; I work on things like these.
 
 0:09:32.200,0:09:36.060
-I still work on similar things while leading the frontend team for technical stuff.
+I still work on similar things while leading the team and I also do technical leadership to the front-end team members.
 
 0:09:36.060,0:09:38.360
-I mean consulting people like "we should head this way", "we should do it like this" etc..
+I mean advising people like "we should head this way", "we should do it like this" etc...
 
 0:09:38.700,0:09:43.440
-I'm not talking about assigning tasks, managing people like how it's usually perceived in Turkey.
+I'm not talking about assigning tasks, managing people like how it's usually perceived in Turkey, not like a boss.
 
 0:09:43.440,0:09:44.020
 [Doğukan] Got it.
 
 0:09:44.120,0:09:45.840
-[Doğukan] So what motivates you generally?
+[Doğukan] What motivates you?
 
 0:09:45.980,0:09:47.700
-I really like helping people.
+I really love helping people.
 
 0:09:47.900,0:09:51.640
-Including helping people on the streets or helping anyone in general...
+Including helping people on the street to helping anyone in general...
 
 0:09:51.640,0:09:55.120
-Erm.. In my daily life, I also have the love of my life since my childhood...
+Erm... In my daily life, I also have the love of my life since my childhood...
 
 0:09:55.120,0:10:00.060
-I mean, apologies to my wife but erm.. It's my computer.
+I mean love of my life, apologies to my wife but erm... It's my computer after her.
 
 0:10:00.460,0:10:01.480
 Programming
 
 0:10:01.840,0:10:06.100
-In fact I'm a pretty lazy guy, really. Instead of physically doing something I'd rather say:
+In fact I'm a very lazy guy, really. Instead of doing anything that requires moving my butt
 
 0:10:06.100,0:10:10.920
-"so, can I make something to do this for me? maybe I could write a code for that?" I couldn't continue to Mechanical Engineering just because of this.
+"so, can I make something do this for me? May be I could write some code?" I couldn't really continue doing mechanical engineering mostly because of this.
 
 0:10:10.920,0:10:15.440
-What motivates me is.. I mean I love coding. I love being lazy.
+What motivates me is... I mean I love coding. I love being lazy.
 
 0:10:15.440,0:10:19.960
-I love helping people and since I can do both at the same time the result is this developer efficiency.
+I also love helping people so I found this developer efficiency thing that best combines both.
 
 0:10:19.960,0:10:24.600
-I lazily write my code and therefore saving the unnecessary labor for other people.
+I write my code, being lazy, and save other people some effort or labor.
 
 0:10:24.740,0:10:26.900
-[Doğukan] Can you describe your development environment?
+[Doğukan] What is your development environment like?
 
 0:10:27.080,0:10:31.960
-[Doğukan] Maybe we can start with your operating system of choice. Because there are prejudices about that.
+[Doğukan] I think we can start with your operating system of choice. Because there are some strong prejudices about that.
 
 0:10:31.960,0:10:37.780
-[Doğukan] That there are these people who are using Windows and they are constantly told: "Why do you use Windows when you have Linux and best of all Mac?"..
+[Doğukan] There are these people who tell Windows users "Boy, are you using Windows? Go use Linux. Mac is the best" or things like that.
 
 0:10:37.780,0:10:40.380
-I'm Burak Yiğit Kaya and I love using my Windows and I'm pretty happy with it.
+I'm Burak Yiğit Kaya and I use Windows 10 and I'm pretty happy with it.
 
 0:10:41.700,0:10:43.300
-I'm just kidding, but yes, I'm using Windows.
+I mean, joking asdie, yes, I use Windows.
 
 0:10:43.980,0:10:45.760
-[Doğukan] And what do you prefer as your terminal?
+[Doğukan] And what do you use as your terminal?
 
 0:10:46.040,0:10:49.940
-I'm using something called ConEmu. It's maybe the only reason I'm sticking with Windows.
+I'm using something called ConEmu. It's probably the biggest reason that keeps me on Windows.
 
 0:10:49.940,0:10:51.820
-I mean if I didn't have it, I probably wouldn't use Windows today.
+I mean if I didn't discover it, I probably wouldn't be using Windows today.
 
 0:10:52.160,0:10:55.000
-Erm, and as for the IDE, I'm using PyCharm.
+Erm, and as for the IDE, I'm using PyCharm for a long time.
 
 0:10:55.280,0:10:58.960
 And as for my side IDE, I mean for small things, I used to use nano but nowadays I'm using vim.
 
 0:10:59.120,0:11:04.520
-And I recently started to use Visual Studio Code for some small, not so big projects.
+And I recently started using Visual Studio Code for some small, not so big projects.
 
 0:11:04.520,0:11:08.980
-I recommend Spotify if you don't already use it. Previously I was using Google Music but Spotify is much better.
+I recommend Spotify if you aren't already using it. Previously I was using Google Music but Spotify is better.
 
 0:11:10.620,0:11:12.620
-I think fonts are really important things for any developer.
+I think the font a developer uses is very important.
 
 0:11:12.760,0:11:16.020
-Recently I came across a font family called Meslo LG, it's lovely.
+I came across a font family called Meslo LG, it's lovely.
 
 0:11:16.180,0:11:18.800
-I now prefer Telegram over things like Whatsapp or Hangouts..
+I now prefer Telegram over things like Whatsapp or Hangouts.
 
 0:11:19.260,0:11:22.620
-Besides those I don't think I can recommend anything at all. And of course there is, erm, f-lux.
+Besides those I don't think I can recommend much else. Oh, and of course there is, erm, f-lux.
 
 0:11:22.620,0:11:27.140
-I'm sure there are many people using it. It's written as "f.lux", it singes the screen at night
+I'm sure there are many people using it. It's written as "f.lux", it warms up your screen at night
 
 0:11:27.140,0:11:29.140
-so that your eyes won't hurt due to the white light.
+so that your eyes won't hurt due to white light.
 
 0:11:29.300,0:11:30.800
-[Doğukan] What kinds of music do you listen while you work?
+[Doğukan] What kinds of music do you listen while you're working?
 
 0:11:31.300,0:11:34.100
 I like listening to Jazz which makes me more relaxed and focused.
@@ -606,35 +604,34 @@ I like listening to Jazz which makes me more relaxed and focused.
 If I'm excited or happy, I prefer hard rock or even metal some times
 
 0:11:39.300,0:11:43.220
-but metal confuses me. Maybe because of the tempo.
+but metal can soemtimes make me confused since it is a bit too energetic after a point.
 
 0:11:44.260,0:11:47.620
-If I'm relaxed or if I feel elite, I prefer classic music.
+If I'm feeling tranquil or if I feel elite, I prefer classic music.
 
 0:11:47.620,0:11:52.800
-But recently I came to realise that classic music has too many details in it which forces you to pay more
-Ama şunu farkettim; yani klasik müziğin detayı çok fazla olduğu için aslında kod yazarken dinlemeye çalışınca
+But I came to realise that classic music has so many nuances in it which forces you to pay more
 
 0:11:52.800,0:11:57.640
-attention to the music rather than the code. That's why I rather prefer that
+attention to the music rather than the code. That's why I rather prefer those
 
 0:11:57.640,0:11:59.900
-piano based music they play in Jazz bars. I like them better.
+piano-heavy music they play in the backround in Jazz bars. I like them better.
 
 0:12:00.700,0:12:07.600
-[Doğukan] I know you're not a designer but, as a Frontend Developer, do you know what the equivalent of 1 click in pixels is?
+[Doğukan] I know you're not a designer but, as a front-end developer, do you know what the equivalent of 1 "click" in pixels is?
 
 0:12:07.880,0:12:09.960
-That's a unique question..
+That's a very... That's a very subjective question.
 
 0:12:09.960,0:12:14.480
-In my opinion a click is a single pixel. I mean when you say a click it could be 2 pixels as well
+Dude, to me, a click is a single pixel. I mean when you say a click, it could be 2 pixels as well
 
 0:12:14.480,0:12:17.860
-since we now have the retina displays but I'm not really sure. For me it's just a single pixel.
+on those, since we now have these retina displays but I'm not really sure... For me one click is one pixel.
 
 0:12:18.080,0:12:22.520
-But when someone talks about a click, it probably means 5 or 10 pixels, I think.
+But when someone talks about a click, they probably mean 5 to 10 pixels, I think.
 
 0:12:22.740,0:12:23.760
 [Doğukan] Thanks.
@@ -643,217 +640,216 @@ But when someone talks about a click, it probably means 5 or 10 pixels, I think.
 [Doğukan] What do you think about open source?
 
 0:12:26.800,0:12:29.440
-I think they have a philosophy that changes the world.
+I think they have a philosophy that can change the world.
 
 0:12:29.660,0:12:36.140
-I'm not talking about the vision Stallman has where he means everything should be open and free. I'm rather pragmatic about it.
+I'm not talking about the vision Stallman has where he means everything should be open and free. I'm rather more pragmatic about it.
 
 0:12:36.400,0:12:40.320
 I mean I'm thinking about code into which everyone can contribute.
 
 0:12:40.700,0:12:45.820
-Actually I think about this a lot. I think that, in the future, this idea will form the basis of a more participatory
+I think a lot about this and, I think, in the future, this idea will form the basis of a more participatory
 
 0:12:45.820,0:12:49.800
-democrasy and execution-legislation issues. This is a bit philosophy and politics but makes sense when you think about it.
+democracy and executive-legislative matters. This is a bit too much philosophy and politics here but makes sense when you think about it.
 
 0:12:49.800,0:12:56.860
-I mean it's a quite good example for democrasy thanks to its open nature and the newly adopted things like
-Yani herkese her zaman açık ve bu yeni benimsenmeye başlanan Code of Conduct dedikleri şeyler sayesinde
+I mean it's a quite good example for democrasy thanks to its all open nature and the newly adopted things like
 
 0:12:56.860,0:13:01.700
-Code of Conduct. And for working in partnership.
+Code of Conduct. And also for working in partnership.
 
 0:13:01.920,0:13:05.540
-Imagine you want to build a public toilet. I mean, it's a weird example but anyways..
+Imagine as... There needs a public restroom built out there. I mean, it's a weird example but anyways...
 
 0:13:05.900,0:13:09.540
-The constructor says: "We're build 3 public toilets here. We managed to complete these parts
+This one constructor says: "we wanna build a public restroom for three people here. We managed to complete these parts
 
 0:13:09.540,0:13:12.900
-but there are incomplete parts here and there." While you're passing by you say: "Oh, I know about construction, I think I can help"
+but there are incomplete parts here and there." While you're passing by you look and say: "Oh, I know about construction, I think I can help"
 
 0:13:12.900,0:13:16.080
-You work for it like 1 or 2 hours. Then someone else comes and say: "cool, i like this!"
+You work for it like 1 or 2 hours. Then someone else comes and says: "cool, i like this!"
 
 0:13:16.320,0:13:19.300
-And he says: "let's do it this way" etc.. I think open source is like this.
+And one other says: "let's do it this way" etc. I think open source is like this.
 
 0:13:19.620,0:13:24.120
-And the second best part is this.. When I apply for a new job and if I have lots of open source contributions
+And the second best part is this... When I apply for a new job and if I have lots of open source contributions
 
 0:13:24.120,0:13:30.260
-I don't even have to do anything. I'd say: "Go, check my GitHub repo. Look at me resume. I did this and that". I'm able to show what I did.
+I don't have to do anything. I'd say: "Go, check my GitHub repo. Look at my resume. I did this and that." I'm able to show what I did.
 
 0:13:30.260,0:13:33.500
-In fact I have to say "I did this and that" in various closed source projects at Disqus
+In contrast, right now at Disqus, I say "I did this and I did that" for various projects that are not open source
 
 0:13:33.500,0:13:34.540
-and the employer has to believe in what I claim.
+but they just have to take my word for it.
 
 0:13:34.540,0:13:35.140
-[Doğukan] Yes.
+[Doğukan] Yeah.
 
 0:13:35.500,0:13:38.740
-And I can't even show them the code. However if it was open source I'd easily say: "Go, check it out..
+And I can't even show them my code. However when it is open source I just say: "Go, check it out. It's all there, all my work.
 
 0:13:38.740,0:13:41.180
-..these are all my contributions. Take it or leave it." And that's it.
+Take it or leave it". That's it.
 
 0:13:42.460,0:13:46.400
-And you gotta know a lot of people. Nearly the same effect social media has.
+And you get to know lots of people. It had an effect close to what social media [first] did.
 
 0:13:46.400,0:13:51.980
-For example, Nicholas Zakas is someone who I admire since my childhood, that I follow and respect.
+For example, Nicholas Zakas is someone who I admire since when I was young, that I follow and respect.
 
 0:13:52.420,0:13:58.040
-When I contribute to the ES project, I have the opportunity to talk to him one on one.
+When contributing to the ESLint project now, erm... I have the chance to talk to him directly.
 
 0:13:58.040,0:14:01.880
-He takes me serious, listens to my ideas. I'm able to hear his thoughts right from himself.
+He takes me seriously. He listens to my ideas. I'm able to hear his thoughts right from himself.
 
 0:14:02.120,0:14:04.540
-I think this is incredible. Something that unites people.
+I think this is incredible. Something that brings people together.
 
 0:14:05.280,0:14:08.640
-And therefore I try my best to contribute whatever I can to open source.
+And for this, I try to contribute to open source whenever I can.
 
 0:14:09.300,0:14:11.100
-[Doğukan] What's your breaking point?
+[Doğukan] What's your inflection point?
 
 0:14:11.360,0:14:14.600
-Probably the time after my military obligation. Or when I started it, I'd say.
+Probably that time after completing my military obligation. Or, let's say, when I started it.
 
 0:14:14.600,0:14:18.840
-Yes, the time I started. Because I couldn't find anything to do (despite I was a sub-lieutenant
+Yeah, the time I started, because I couldn't find anything to do, despite the fact that I was an ensign
 
 0:14:18.840,0:14:22.340
-and them telling me "You're a Mechanical Engineering and that's why we're bringing you on board"
+I told myself... And they told me "You're a Mechanical Engineering and that's why we're bringing you to this base"
 
 0:14:22.340,0:14:23.820
-they assigned me no tasks.)
+but then assigned me no tasks.
 
 0:14:24.120,0:14:29.440
-I had an internet connected computer. Since I didn't have anything to do, I started contributing to Mozilla's MDN wiki.
+I found this internet computer. Since I didn't have anything to do, I started contributing to Mozilla's MDN wiki.
 
 0:14:29.680,0:14:33.040
 Things have changed dramatically for me since then.
 
 0:14:33.040,0:14:35.540
-Before that companies didn't respond at all. They did after my contributions.
+Before that companies didn't respond at all. They started after this.
 
 0:14:35.540,0:14:40.420
-And they invited me to JSConf EU, thanks to Mozilla. When I saw the environment I said:
+And during this time they invited me to JSConf EU, thanks to Mozilla. When I saw the environment I thought:
 
 0:14:40.420,0:14:43.700
-"This is the thing I should be part of, I should really pay more attention to this environment"
+"I should do this stuff, I should follow these communities more".
 
 0:14:43.960,0:14:45.380
-So that's my breaking point.
+Then things changed.
 
 0:14:45.500,0:14:47.340
-[Doğukan] Do you have a notable, exciting story?
+[Doğukan] Do you have an unforgettable, curious story?
 
 0:14:47.500,0:14:48.880
-[Burak] Yes.
-[Doğukan] Tell us.
+[Burak] I do.
+[Doğukan] What is it?
 
 0:14:49.200,0:14:51.080
-Well my notable, exciting story is all about how I got to know my wife.
+Well my unforgettable, curious story is how I met my wife.
 
 0:14:51.080,0:14:56.100
-I was writing code at the high school. An encryption tool called NTCrypto written Delphi.
+I was writing code when I was at high school. An encryption program called NT-Cryptor written Delphi.
 
 0:14:56.100,0:14:58.620
 You can even find it online on some weird sites such as gezginler.com.
 
 0:14:59.740,0:15:03.800
-Then I put it online, wrote my name into its about section as well as my 2 e-mail addresses.
+Then I put it online. Put my name into its about section as well as my 2 e-mail addresses.
 
 0:15:04.020,0:15:07.080
-Back then there was MSN, very widely used. One of those e-mail addresses was, in fact, my MSN address.
+Back then there was MSN. Very widely used. One of those e-mail addresses was, in fact, my MSN address.
 
 0:15:07.080,0:15:08.500
-Anyways, I put it online.
+Anyways, I put it there.
 
 0:15:08.820,0:15:13.200
-My wife is older than me by the way and she was trying to complete her thesis by the time. And I was first grade.
+My wife is older than me by the way. She was working on her thesis at the time. And I was a freshman.
 
 0:15:13.720,0:15:18.320
-And her thesis was on encryption. She found my encryption tool, saw my name and added me on MSN.
+And her thesis was on encryption. She finds my encryption tool, sees my name and adds me on MSN.
 
 0:15:18.700,0:15:23.660
-She would delete me after getting my help and we would never talk again.
+She's about to remove... She would remove me very soon, thinking "this guy wouldn't even talk to me", close her account, we never ever talk again.
 
 0:15:23.900,0:15:30.220
-Luckily, we had a technical drawing session that day so we went to the lab and I knew that there is a security breachon the system,
+By chance, we have this technical drawing course that day. We go to the lab and I suspect there is a security vulnerability on those computers.
 
 0:15:30.500,0:15:33.200
-I had a disk with me called NT Password Reset Disk.
+I have this disk, called NT Password Reset Disk, with me.
 
 0:15:33.660,0:15:38.360
 When you boot the computer with that disk, it boots with Linux
 
 0:15:38.360,0:15:40.240
-and allows you to reset NT's admin password.
+and allows you to reset the admin password by fiddling with NT's encrypted parts.
 
 0:15:40.960,0:15:42.960
-Otherwise you cannot do anything on that computer besides drawing.
+Otherwise you cannot do anything on that computer besides the drawing app.
 
 0:15:43.320,0:15:45.680
-So I had my disk and reset the password.
+So I have my disk and I reset the password.
 
 0:15:46.180,0:15:50.860
-I had access to the desktop, was able to change the wallpaper, show off my friends etc..
+I now have access to the desktop, change the wallpaper, show off to my friends asking "which wallpaper, this or that?" etc...
 
 0:15:50.860,0:15:55.840
-Then I installed MSN and got online. And by that time, she saw me online right before she was about the leave her office.
+Then I install MSN, get online. And right at that moment, she sees me online right before she was about to sign off.
 
 0:15:56.280,0:15:56.780
-[Doğukan] Super!
+[Doğukan] Awesome!
 
 0:15:56.840,0:16:01.780
-There we started to talk and now we're married. And we know each other since 10 years.
+There we start to talk and now we're married. And we know each other for 10 years.
 
 0:16:01.780,0:16:03.620
 [Doğukan] Awesome, perfect!
-[Burak] Yes, it's an amazing story.
+[Burak] Yes, it's an interesting story.
 
 0:16:04.580,0:16:09.940
-[Doğukan] What do you do besides work? I mean, I'm asking this because Burak Can had this post on his blog,
+[Doğukan] What do you do outside work? I mean... I'm asking this because Burak Can had this blog post,
 
 0:16:09.940,0:16:13.940
-[Doğukan] about people in this sector hanging out, gathering etc.. But it's always about work, work, work..
+[Doğukan] saying we get together, organise meetups etc... But it's always about work, work, work..
 
 0:16:13.940,0:16:19.480
-[Doğukan] so he was teasing "Don't know something else?" while tagging Fatih and other guys in the post.
+[Doğukan] Don't you do anything else?" while tagging Fatih and other guys on it.
 
 0:16:19.480,0:16:24.120
-[Doğukan] So I originate the question from his post. I assume you don't always work, I mean I hope?
+[Doğukan] So I was inspired by that for this question. I assume you don't always work. I mean, I hope you don't?
 
 0:16:24.300,0:16:26.840
-[Doğukan] Erm, so what do you do besides work or do you have hobbies?
+[Doğukan] Erm, so do you have anything that you do or like outside work?
 
 0:16:27.160,0:16:31.320
-LEGO. I still love playing with LEGO no matter how old I'm. And the second thing is photography.
+LEGO. Despite my age, I still love playing with LEGO. And, second, there is photography.
 
 0:16:31.840,0:16:35.040
-Sometimes I play some music by myself. I've a little electronic battery at home.
+Sometimes I play some music by myself. I've this tiny electronic drum kit at home.
 
 0:16:35.040,0:16:38.020
-And I also like riding my bicycle. Thankfully, I started riding it again.
+And I love cycling. Thankfully, I started doing it again, recently.
 
 0:16:39.020,0:16:39.620
-And that's it..
+And that's it for now...
 
 0:16:39.780,0:16:45.420
-I know Doğukan for a while. I'm following his work closely. I think this developer talks video series is a great idea.
+It's been a while since I met Doğukan. I'm following his work closely. I think these developer talks video series is a very nice idea.
 
 0:16:45.420,0:16:50.260
-Therefore, erm, you should click here to subscribe.
+Therefore, erm, you should click here and subscribe.
 
 0:16:50.620,0:16:52.620
-Follow him and I'll continue to follow.
+Follow him and I'll also be following.
 
 0:16:52.620,0:16:54.620
 [Doğukan] Thanks.
